@@ -1,0 +1,37 @@
+{
+  "name": "wiiu-vc-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "run:server": "ts-node src/server/index.ts",
+    "dev": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "@types/date-fns": "^2.6.0",
+    "@types/dom-parser": "^0.1.0",
+    "@types/jest": "^25.2.3",
+    "@types/node": "^14.0.6",
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "@types/styled-components": "^5.1.0",
+    "@types/uuid": "^8.0.0",
+    "jest": "^26.0.1",
+    "snowpack": "^2.1.1",
+    "ts-jest": "^26.1.0",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "date-fns": "^2.14.0",
+    "dom-parser": "^0.1.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.1",
+    "ts-node": "^8.10.2",
+    "uuid": "^8.1.0"
+  }
+}

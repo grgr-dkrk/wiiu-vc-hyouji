@@ -1,0 +1,9 @@
+/node_modules
+/web_modules
+build/
+.DS_Store
+.idea
+yarn-error.log
+.vscode/
+
+**/*/data.html

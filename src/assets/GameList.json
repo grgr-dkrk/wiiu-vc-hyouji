@@ -1,0 +1,4340 @@
+[
+  {
+    "id": "203d9901-9adf-4dac-b23c-acd6254f24fc",
+    "title": "星のカービィ 夢の泉の物語",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "04月17日",
+    "publishYear": "2013年",
+    "remarks": "2013年5月16日まで30円で配信。"
+  },
+  {
+    "id": "42dcb81f-8878-4a31-857c-61832dd92db2",
+    "title": "バルーンファイト",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "04月27日",
+    "publishYear": "2013年",
+    "remarks": "2013年1月24日から2月22日まで30円で先行配信。"
+  },
+  {
+    "id": "e5a3f63b-fc5a-42d8-a383-f7bdad1c1e92",
+    "title": "アイスクライマー",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "04月27日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "813038fe-aab2-4714-ab8b-6fe81eaef987",
+    "title": "エキサイトバイク",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "04月27日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "594b2ab9-96e1-4faa-ac6c-8ba16ac62cb4",
+    "title": "ダウンタウン熱血行進曲 それゆけ大運動会",
+    "platform": "FC",
+    "publisher": "アークシステムワークス",
+    "publishDate": "04月27日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "db821cc5-be60-4502-9958-8f265a872cf1",
+    "title": "スペランカー",
+    "platform": "FC",
+    "publisher": "Tozai Games",
+    "publishDate": "04月27日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "fc1ad02f-b71b-4c91-b5aa-346469316f51",
+    "title": "ゼビウス",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "04月27日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "4cb10f09-cc8e-43d2-86d1-540808035ab1",
+    "title": "F-ZERO",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "04月27日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "fd03abef-3d08-4ca5-a8e5-2d2e2135373a",
+    "title": "スーパーマリオワールド",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "04月27日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "b9ab5d70-d5e8-4e2f-acce-9d0093c9ad2a",
+    "title": "ファイアーエムブレム 聖戦の系譜",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "04月27日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "c01bba96-8d22-4ae8-b2ef-59f3c56e78e2",
+    "title": "ファイアーエムブレム 紋章の謎",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "04月27日",
+    "publishYear": "2013年",
+    "remarks": "2013年2月20日から3月21日まで30円で先行配信。"
+  },
+  {
+    "id": "1eeaed71-a655-47f6-aafb-93898fc9a610",
+    "title": "MOTHER2 ギーグの逆襲",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "04月27日",
+    "publishYear": "2013年",
+    "remarks": "2013年3月20日から4月18日まで30円で先行配信。"
+  },
+  {
+    "id": "ec1a92c3-df74-4d9b-847c-ada0c4068e08",
+    "title": "マリオのスーパーピクロス",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "04月27日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "caf1ce77-a60a-45e4-9ced-f6e8f28b8287",
+    "title": "超魔界村",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "04月27日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "59dcb548-812c-4e8d-8ca8-527b914e9c93",
+    "title": "ロックマン3 Dr.ワイリーの最期!?",
+    "platform": "FC",
+    "publisher": "カプコン",
+    "publishDate": "05月01日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "982cf030-579b-46b8-9a00-605aeecc1909",
+    "title": "ソロモンの鍵",
+    "platform": "FC",
+    "publisher": "コーエーテクモゲームス",
+    "publishDate": "05月01日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "8d478cab-5688-44b8-a601-8e276c3cbf12",
+    "title": "星のカービィ スーパーデラックス",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "05月01日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "9b37dd7b-202e-425e-8947-ad4c0e0d3669",
+    "title": "カービィのきらきらきっず",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "05月08日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "890ca70f-cb23-4a85-89da-bfff19276bce",
+    "title": "カービィボウル",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "05月08日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "6f25334a-e0d1-4035-af87-09a09dee9a10",
+    "title": "星のカービィ3",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "05月08日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "7e661a1e-68aa-4f29-9b4b-7e8f09b3a7d9",
+    "title": "パックマン",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "05月15日",
+    "publishYear": "2013年",
+    "remarks": "2017年4月28日配信終了"
+  },
+  {
+    "id": "c8b5f34b-800e-4015-b01a-4a80d795fdcd",
+    "title": "マッピー",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "05月15日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "15e34c97-593a-4a72-b8d5-00207cd45477",
+    "title": "スーパーメトロイド",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "05月15日",
+    "publishYear": "2013年",
+    "remarks": "2013年6月13日まで30円で配信。"
+  },
+  {
+    "id": "2d655dbe-930e-4c3f-a41b-3a0583f8b7cd",
+    "title": "いっき",
+    "platform": "FC",
+    "publisher": "サンソフト",
+    "publishDate": "05月22日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "960f1728-3cd6-4f9d-ad1c-9fd8369401ea",
+    "title": "ロックマンX",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "05月22日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "0744a7ab-0b3b-4b32-90d9-070fb06cc84c",
+    "title": "ヘラクレスの栄光III 神々の沈黙",
+    "platform": "SFC",
+    "publisher": "パオン",
+    "publishDate": "05月22日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "53223ed8-3ee2-465e-936b-05cac4699540",
+    "title": "マリオブラザーズ",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "05月29日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "0e5d0c8a-eac4-4816-a1a7-bb0a698b73c6",
+    "title": "パネルでポン",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "05月29日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "d7042d2f-9d3a-41a8-b2aa-157c520b2647",
+    "title": "パイロットウイングス",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "05月29日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "d99c741c-1b7d-4194-aa69-d7fd26f806f1",
+    "title": "パンチアウト",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "06月05日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "e9fc089f-d3cf-4b5f-adec-427e050bccdc",
+    "title": "スーパーマリオブラザーズ",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "06月05日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "35f84044-1384-4058-b9e2-04a511a13482",
+    "title": "ヨッシーのたまご",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "06月12日",
+    "publishYear": "2013年",
+    "remarks": "2013年7月11日まで30円で配信。"
+  },
+  {
+    "id": "307f0693-f713-4c4c-92a0-67d85f439728",
+    "title": "ロックマン",
+    "platform": "FC",
+    "publisher": "カプコン",
+    "publishDate": "06月12日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "9ae87b5e-fefc-4497-807a-2a87fa96f07b",
+    "title": "ロックマン2 Dr.ワイリーの謎",
+    "platform": "FC",
+    "publisher": "カプコン",
+    "publishDate": "06月12日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "07dcb781-b0e3-43bc-a0e3-64a5b60019a6",
+    "title": "ロックマン4 新たなる野望!!",
+    "platform": "FC",
+    "publisher": "カプコン",
+    "publishDate": "06月12日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "f17abdfc-378e-4fd9-a833-2b9a0f50274a",
+    "title": "レッキングクルー",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "06月19日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "672bab44-b1dc-4527-bf61-dd3752912600",
+    "title": "忍者じゃじゃ丸くん",
+    "platform": "FC",
+    "publisher": "ハムスター",
+    "publishDate": "06月19日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "ce32f432-4f72-484a-9d56-9acf674e8c09",
+    "title": "スーパーマリオカート",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "06月19日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "bca40b71-8a29-4e77-9612-bb9c474294f3",
+    "title": "聖剣伝説2",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "06月26日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "f60e0cc3-acc1-451b-b690-e13a47e5fdf0",
+    "title": "ファイナルファンタジーVI",
+    "platform": "SFC",
+    "publisher": "スクウェア･エニックス",
+    "publishDate": "06月26日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "80d433c7-bd62-41a2-b42d-abce369f5803",
+    "title": "魔界村",
+    "platform": "FC",
+    "publisher": "カプコン",
+    "publishDate": "07月03日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "59640079-e63b-47e8-9588-3fd6a34d3487",
+    "title": "真・女神転生",
+    "platform": "SFC",
+    "publisher": "アトラス",
+    "publishDate": "07月03日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "a7e784d7-ac62-4475-8d6c-9767cd11e879",
+    "title": "ブレス オブ ファイアII 使命の子",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "07月10日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "84b19489-3046-4c58-b648-b72427c46c67",
+    "title": "ファイアーエムブレム トラキア776",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "07月10日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "5e81fdfe-3beb-42ec-b99b-5339504b02d5",
+    "title": "ドンキーコングJR.",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "07月17日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "12bdcf03-3124-4f73-a0bd-366bb6797ae7",
+    "title": "ドンキーコング",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "07月17日",
+    "publishYear": "2013年",
+    "remarks": "2013年8月13日まで30円で配信。"
+  },
+  {
+    "id": "05d9e9a3-a99b-443a-9450-100d5d2b08e6",
+    "title": "ギャラガ",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "07月24日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "6c948802-d909-461e-acae-2cdc055e7849",
+    "title": "三國志IV",
+    "platform": "SFC",
+    "publisher": "コーエーテクモゲームス",
+    "publishDate": "07月24日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "21fe45a2-1f9e-4722-9b50-4587e44ca7ea",
+    "title": "ファミコン探偵倶楽部PARTII うしろに立つ少女（スーパーファミコン版）",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "07月31日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "dff53c64-0ccc-42c6-a0d4-3580b38eb5f6",
+    "title": "かまいたちの夜",
+    "platform": "SFC",
+    "publisher": "スパイク・チュンソフト",
+    "publishDate": "08月07日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "c5d7292f-dcf5-4edc-b75a-2fea15c60955",
+    "title": "スーパーマリオブラザーズ2",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "08月08日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "df4bc2b8-7f8c-47ef-a48c-58e6fe7d5f5b",
+    "title": "メトロイド",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "08月14日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "0b272f02-1a7c-4cb5-9437-942ce305b2dd",
+    "title": "光神話 パルテナの鏡",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "08月14日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "0d0059ed-d941-4c17-9966-33e929d10ea6",
+    "title": "ドルアーガの塔",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "08月21日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "41290be5-5cef-431a-8a23-4a6248a0b130",
+    "title": "はじまりの森",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "08月21日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "b769fad5-8ebf-4747-8ba5-e7eccc442287",
+    "title": "ゼルダの伝説",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "08月28日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "bbe991d2-6188-44e0-b1dd-0ddfae389819",
+    "title": "ツインビー",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "09月04日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "81bf6312-2810-4087-9dc2-9de0caf52be9",
+    "title": "がんばれゴエモン〜ゆき姫救出絵巻〜",
+    "platform": "SFC",
+    "publisher": "KONAMI",
+    "publishDate": "09月04日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "14194b0e-ceca-4679-a3c1-a2a8ba74abf5",
+    "title": "リンクの冒険",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "09月11日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "10fe5088-7175-4ca1-8349-d036f8afa69d",
+    "title": "悪魔城ドラキュラ",
+    "platform": "SFC",
+    "publisher": "KONAMI",
+    "publishDate": "09月11日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "33dd46ce-7dda-4edc-8266-e9d345663bdb",
+    "title": "ふぁみこんむかし話 新・鬼ヶ島（前後編）",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "09月18日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "6746e741-da62-465c-9ef8-d99a026812b7",
+    "title": "スーパーワギャンランド",
+    "platform": "SFC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "09月18日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "2dfc1f30-0cd9-43a3-8c8e-683740a49af1",
+    "title": "がんばれゴエモン2 奇天烈将軍マッギネス",
+    "platform": "SFC",
+    "publisher": "KONAMI",
+    "publishDate": "09月25日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "281bc9d8-9c7b-4905-9933-b5b8e5ae458f",
+    "title": "真・女神転生II",
+    "platform": "SFC",
+    "publisher": "アトラス",
+    "publishDate": "09月25日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "22b7e7b6-126a-4d34-b65f-8cff4c6251c5",
+    "title": "グラディウス",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "10月02日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "4f72cace-b4b9-46c7-85c7-dc12fc40dd4c",
+    "title": "スーパーファミコンウォーズ",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "10月02日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "900dd5c1-709a-4459-9db5-fc69932bdfa0",
+    "title": "ロックマンX2",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "10月09日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "1d071b33-264a-4c7e-b943-2e45f823aaf7",
+    "title": "真・女神転生if...",
+    "platform": "SFC",
+    "publisher": "アトラス",
+    "publishDate": "10月16日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "66f2d74e-b396-4a7e-9a01-f166fea0401d",
+    "title": "がんばれゴエモン3 獅子重禄兵衛のからくり卍固め",
+    "platform": "SFC",
+    "publisher": "KONAMI",
+    "publishDate": "10月16日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "3d23a5e2-679b-43f6-a50c-bef2288b4a65",
+    "title": "ベースボール",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "10月23日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "1bfcdff7-3089-4cc5-9bcf-450111aebb1d",
+    "title": "ピンボール",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "10月23日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "57fb914e-7550-453c-8ccc-500d5ae01a3e",
+    "title": "アーバンチャンピオン",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "10月23日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "652a1355-35c8-435e-b39f-cd65f07d8885",
+    "title": "テニス",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "10月30日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "25e5314b-11b6-4e2e-ad6f-48f99e362edc",
+    "title": "大航海時代II",
+    "platform": "SFC",
+    "publisher": "コーエーテクモゲームス",
+    "publishDate": "10月30日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "1bbb815e-bc69-4c5f-aebc-fb436e35c63f",
+    "title": "ドンキーコング3",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "11月06日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "b4846274-5461-4bd8-b83a-48910f1ef706",
+    "title": "クロックタワー",
+    "platform": "SFC",
+    "publisher": "サンソフト",
+    "publishDate": "11月06日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "1c30d541-df90-4daa-8a82-fc28377a8327",
+    "title": "ファイナルファンタジー",
+    "platform": "FC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "11月13日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "188a0f8a-6dbf-4194-9259-015948671f53",
+    "title": "ゴルフ",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "11月13日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "d0379b52-0b1b-4929-ab5f-8169e819b1fd",
+    "title": "クルクルランド",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "11月20日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "a6a6841c-7bf0-4069-b427-de209989a005",
+    "title": "伝説のオウガバトル",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "11月20日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "81391a77-cf47-4b91-93cf-c2a25297dbd9",
+    "title": "RUSHING BEAT 乱 複製都市",
+    "platform": "SFC",
+    "publisher": "ハムスター",
+    "publishDate": "11月27日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "177509c0-4eb8-4d74-8f0c-1fc1025ff075",
+    "title": "魂斗羅スピリッツ",
+    "platform": "SFC",
+    "publisher": "KONAMI",
+    "publishDate": "11月27日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "77224652-4890-41ae-a4a6-ed9e6a6fc2a0",
+    "title": "ダウンタウンスペシャル くにおくんの時代劇だよ全員集合!",
+    "platform": "FC",
+    "publisher": "アークシステムワークス",
+    "publishDate": "12月04日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "d7068df8-77f2-4857-a6e9-dbd1a72df768",
+    "title": "悪魔城ドラキュラ",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "12月04日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "8948146c-1f03-4c80-9e1f-deef2da550fb",
+    "title": "アイスホッケー",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "12月11日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "85575c77-eec0-4915-8c65-baaa22b9319b",
+    "title": "ファイナルファンタジーII",
+    "platform": "FC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "12月11日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "cbb74a0b-f790-4445-86d4-9be15e29b32c",
+    "title": "熱血高校ドッジボール部",
+    "platform": "FC",
+    "publisher": "アークシステムワークス",
+    "publishDate": "12月18日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "e64afd8b-14ca-44e8-8809-1de7c06f8c7c",
+    "title": "ロマンシング サ・ガ",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "12月18日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "d07c449a-82fe-468f-891f-7c05a0084293",
+    "title": "スーパーマリオブラザーズ3",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "12月25日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "0341461b-b4c4-48dd-8b7f-d019c3d68d90",
+    "title": "PC原人",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "12月25日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "9288acc8-100f-41d5-857d-b535b01badc1",
+    "title": "パロディウス",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "12月25日",
+    "publishYear": "2013年",
+    "remarks": ""
+  },
+  {
+    "id": "a7d51995-1c78-4989-8f52-5f322c2e0c11",
+    "title": "ファイナルファンタジーIII",
+    "platform": "FC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "01月08日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "4131a03e-8e64-4364-ac34-40c617a18a4b",
+    "title": "マリオオープンゴルフ",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "01月15日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "51e32051-2787-4e3b-a2ac-bb8469e585f4",
+    "title": "熱血硬派くにおくん",
+    "platform": "FC",
+    "publisher": "アークシステムワークス",
+    "publishDate": "01月15日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "cb61cf22-135c-4cef-92d4-668c0c438b5c",
+    "title": "ロマンシング サ・ガ2",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "01月22日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "5c445b9c-9db9-4d77-b4eb-bf01b783a3fe",
+    "title": "ダブルドラゴン",
+    "platform": "FC",
+    "publisher": "アークシステムワークス",
+    "publishDate": "01月22日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "fe28e16e-0158-4d6e-a304-9c9208b47bbd",
+    "title": "夢大陸アドベンチャー",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "01月29日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "542d6461-c629-4f0c-a2c5-bf8546584e47",
+    "title": "高橋名人の新冒険島",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "01月29日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "fd866449-379f-464e-bd85-f9f82a535e00",
+    "title": "ワリオの森",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "01月29日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "daf09180-5bfe-471b-988a-09f2143ee75b",
+    "title": "BUBBLE BOBBLE",
+    "platform": "FC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "01月29日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "da6d7ec2-4266-499c-bf7c-484bc7ffaa9b",
+    "title": "マイティボンジャック",
+    "platform": "FC",
+    "publisher": "コーエーテクモゲームス",
+    "publishDate": "02月05日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "f55369ef-71ec-4221-a5c5-7d7b71ab17ac",
+    "title": "バハムートラグーン",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "02月05日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "b43775b2-5f49-45c6-b47e-6e1c159d7a0a",
+    "title": "ゼルダの伝説 神々のトライフォース",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "02月12日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "427ffb1d-38f2-4d4e-8026-bb9a5f744101",
+    "title": "マーヴェラス 〜もうひとつの宝島〜",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "02月12日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "9a97d7c6-8bf1-472a-ab47-ae0a46cfdd1b",
+    "title": "ELEVATOR ACTION",
+    "platform": "FC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "02月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "2f0a8eed-ce0b-4d68-8f5b-1e6b22724ecb",
+    "title": "ファイナルファンタジーIV",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "02月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "9950d42b-8e8d-4db3-8e1b-d2e3cdac94c2",
+    "title": "スペースマンボウ",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "02月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "69ca9c34-5ed2-4255-ad39-d264a6329663",
+    "title": "ドクターマリオ",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "02月26日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "d37e7a80-c213-4c8d-bce1-cedad3bf6630",
+    "title": "ロマンシング サ・ガ3",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "02月26日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "2d1f2716-3d49-41e5-8650-e36d4dc7efea",
+    "title": "スーパースターソルジャー",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "02月26日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "1aff03df-ce39-47c6-bdbc-9b0c8a172855",
+    "title": "ドラキュラII 呪いの封印",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "03月05日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "8d71dac5-286a-4174-ab72-0f3b18075480",
+    "title": "SUPER魂斗羅",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "03月05日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "fb7d1b95-0459-4e6b-8044-fade7b7a71d6",
+    "title": "バレーボール",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "03月12日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "d19cd3a3-2091-4200-aaa0-b6089bca0ce2",
+    "title": "タクティクスオウガ",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "03月12日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "e71202dc-b01e-4059-b748-c4711b2f60e9",
+    "title": "PC原人2",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "03月12日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "49939c45-2006-4a38-abba-7461fe0cc5df",
+    "title": "スーパーマリオUSA",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "03月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "999ac94e-8360-4a45-92af-575f2f886c6d",
+    "title": "熱血高校ドッジボール部 サッカー編",
+    "platform": "FC",
+    "publisher": "アークシステムワークス",
+    "publishDate": "03月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "bf3390af-b51a-4c75-abd4-219b303920e8",
+    "title": "魔城伝説",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "03月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "217ec5cf-2cb8-4edb-9b23-2ad44c4269f6",
+    "title": "忍者龍剣伝",
+    "platform": "FC",
+    "publisher": "コーエーテクモゲームス",
+    "publishDate": "03月26日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "005bcc87-aef5-4f38-867d-81e075c80efb",
+    "title": "ファイナルファンタジーV",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "03月26日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "4e50a41f-32ec-4ded-8a9a-c0510c55e52f",
+    "title": "F-ZERO FOR GAMEBOY ADVANCE",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "04月03日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "d0c1cbff-32fa-489d-9e69-5648729849d6",
+    "title": "黄金の太陽 開かれし封印",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "04月03日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "03adf0e2-f192-4aca-850d-8f3f330eb89b",
+    "title": "スーパーマリオアドバンス2",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "04月03日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "eff11734-640d-4a14-bded-0f52cb7634c5",
+    "title": "メイド イン ワリオ",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "04月03日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "b2dc10ec-3336-4427-842d-de252eece1fb",
+    "title": "星のカービィ 鏡の大迷宮",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "04月03日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "62ad5a5d-653d-455e-a7b3-2567c3590980",
+    "title": "ゲームボーイウォーズアドバンス1+2",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "04月03日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "a3ae60d0-3e7b-4286-8745-8815414d8ecf",
+    "title": "半熟英雄",
+    "platform": "FC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "04月09日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "074ab30d-4ef3-48f2-9d87-fa060dbc7aa1",
+    "title": "スーパーパンチアウト!!",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "04月09日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "c7462362-788c-4f09-9f5e-ebbf1e44de9b",
+    "title": "悪魔城伝説",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "04月16日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "17b2ea46-9935-43e2-ae23-d4c48bf26f96",
+    "title": "ファイナルファンタジーUSA ミスティッククエスト",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "04月16日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "75378d8d-57d6-4fbf-bfc4-f8d811b7e6d8",
+    "title": "グラディウス",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "04月16日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "b0e15076-0b91-40f5-a81a-c30752bec0b4",
+    "title": "ニュートピア",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "04月16日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "3c56b1cf-1358-4a41-84e2-5ddff540397b",
+    "title": "ロックマン5 ブルースの罠!?",
+    "platform": "FC",
+    "publisher": "カプコン",
+    "publishDate": "04月23日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "0a6d4dd4-09aa-4677-a539-a5b81fcdd9f2",
+    "title": "悪魔城ドラキュラXX",
+    "platform": "SFC",
+    "publisher": "KONAMI",
+    "publishDate": "04月23日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "7faf17a0-2587-4eb5-9caa-85751459202f",
+    "title": "クォース",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "04月23日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "89a0f1f7-22ce-42bf-9c84-3a61dad54f3f",
+    "title": "THE 功夫",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "04月30日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "d0eb04fa-5314-453a-bcc7-a9347df786ee",
+    "title": "R-TYPE",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "04月30日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "e73ae1bc-ea12-4cd2-a230-674fed771909",
+    "title": "ワリオランドアドバンス ヨーキのお宝",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "04月30日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "e388660e-5d64-4a02-9bd6-42ce7b1ff387",
+    "title": "星のカービィ 夢の泉デラックス",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "04月30日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "bc9eeae6-7787-4996-8ecc-2dcc1556ead7",
+    "title": "メトロイドフュージョン",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "04月30日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "6f63fb46-e0ca-4636-87dd-eb7b4ec2e106",
+    "title": "マリオ&ルイージRPG",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "04月30日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "2b48f956-40af-4a04-9315-593661b32cac",
+    "title": "ゼルダの伝説 ふしぎのぼうし",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "04月30日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "fe82e6a9-ab3b-4e05-b2f9-916a3dce1d6e",
+    "title": "マリオテニスアドバンス",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "04月30日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "275242bf-5187-4ea7-bc1c-df0070916d46",
+    "title": "ワギャンランド",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "05月07日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "448fecde-c662-4196-bda2-ab8357739ed1",
+    "title": "Pop'nツインビー",
+    "platform": "SFC",
+    "publisher": "KONAMI",
+    "publishDate": "05月07日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "f3887e2b-7c43-4aa0-8d8e-9a3b9de4788c",
+    "title": "サラダの国のトマト姫",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "05月14日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "eb400058-68e5-4253-a206-aa30e32adc7d",
+    "title": "ロックマン6 史上最大の戦い!!",
+    "platform": "FC",
+    "publisher": "カプコン",
+    "publishDate": "05月14日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "183e49dc-4d57-4fda-b687-07bf72ec170a",
+    "title": "ファイアーエムブレム 烈火の剣",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "05月14日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "ac9a0f1b-dd37-4d5d-824a-c309e3d889aa",
+    "title": "レッドアリーマーII",
+    "platform": "FC",
+    "publisher": "カプコン",
+    "publishDate": "05月21日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "6408ec02-4a0d-43bc-978e-ff344fdde102",
+    "title": "ツインビー レインボーベルアドベンチャー",
+    "platform": "SFC",
+    "publisher": "KONAMI",
+    "publishDate": "05月21日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "c1ed9183-4f46-4bea-bab6-94bcb547a169",
+    "title": "イーガー皇帝の逆襲 イー・アル・カンフー2",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "05月21日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "467b07c1-2cb8-4495-801d-b0fce8b23a23",
+    "title": "ジョイメカファイト",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "05月28日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "b1223f8b-5c9f-4692-93c1-c75a8133c4e8",
+    "title": "ファミコン探偵倶楽部 消えた後継者",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "05月28日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "17a97b18-0734-472c-a2d9-8e5efe6ed3f5",
+    "title": "ファイアーエムブレム 暗黒竜と光の剣",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "06月04日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "55e4ef55-2a72-48b4-b1c2-d75fd5cc4da7",
+    "title": "影の伝説",
+    "platform": "FC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "06月04日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "4f664480-0853-4ea1-8b7a-fb3f9dffb69d",
+    "title": "脳を鍛える大人のDSトレーニング",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "06月04日",
+    "publishYear": "2014年",
+    "remarks": "6月30日まで期間限定の無料配信。"
+  },
+  {
+    "id": "134a6ff4-f3dd-45a1-994f-ae139f7df53b",
+    "title": "パックランド",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "06月11日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "216aa3ae-8599-47c2-a58b-10d924cf1dda",
+    "title": "ブレイジングレーザーズ",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "06月11日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "811e1e63-f4d1-44a9-978f-330b3ae63dfb",
+    "title": "パックマンコレクション",
+    "platform": "GBA",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "06月11日",
+    "publishYear": "2014年",
+    "remarks": "2017年4月28日配信終了"
+  },
+  {
+    "id": "e7a1c5d5-82b3-482e-9b55-e7ac1be23da4",
+    "title": "けっきょく南極大冒険",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "06月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "5fa96ac1-bc96-4b4f-ade5-154ee326738a",
+    "title": "いけいけ!熱血ホッケー部 「すべってころんで大乱闘」",
+    "platform": "FC",
+    "publisher": "アークシステムワークス",
+    "publishDate": "06月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "1576c158-4dad-4a6a-b96f-5b8e784f7514",
+    "title": "PC電人",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "06月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "f4735724-f92b-4a95-a490-4dbc83dd6025",
+    "title": "ロードファイター",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "06月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "b5cebdba-15e1-4f7d-90d7-0e54ba707ea0",
+    "title": "メトロイド ゼロミッション",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "06月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "f1d04adc-0b68-44dd-b354-4e8253446256",
+    "title": "ストリートファイターII ザ ワールド ウォーリアー",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "06月25日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "157a1807-caa5-4033-a377-d84886328f7c",
+    "title": "ストリートファイターII ターボ ハイパー ファイティング",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "06月25日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "5c3f89bc-36e9-402d-b2bc-e00e377471e1",
+    "title": "スーパーストリートファイターII ザ ニューチャレンジャーズ",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "06月25日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "22f72b79-d669-4295-9c48-db99e83d9322",
+    "title": "PC原人3",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "06月25日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "35aaf1c9-10ff-4293-96f5-823f8426dcef",
+    "title": "クインティ",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "07月02日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "5fc8c238-c6b5-42ea-bb33-33bb01d8bb42",
+    "title": "がんばれゴエモン!からくり道中",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "07月02日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "65a88883-be44-4bcf-b026-469bb8714803",
+    "title": "バトルシティー",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "07月09日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "e5e0f377-83b3-4b53-b561-fc725195f5a9",
+    "title": "エイリアンクラッシュ",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "07月09日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "6b7833b8-60c1-4310-9e55-7d3588e670b7",
+    "title": "ロックマン エグゼ",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "07月09日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "0ae004b3-f687-4790-a707-b12f37c33174",
+    "title": "くにおくんのドッジボールだよ全員集合!",
+    "platform": "SFC",
+    "publisher": "アークシステムワークス",
+    "publishDate": "07月16日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "804ccf31-98f9-4494-9436-ede49c5df00f",
+    "title": "スーパーマリオアドバンス",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "07月16日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "930f6c53-bf74-4ca2-98a8-44888dff79a2",
+    "title": "くるくるくるりん",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "07月16日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "aeb3b83f-b360-4778-833f-517b6051baa5",
+    "title": "スーパーチャイニーズ",
+    "platform": "FC",
+    "publisher": "カルチャーブレーン",
+    "publishDate": "07月23日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "6239aa84-3a92-42e4-bcd9-4bbf4640a598",
+    "title": "黄金の太陽 失われし時代",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "07月23日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "8befc4e7-2b4e-49b2-b592-f7e27b4e7db7",
+    "title": "マリオvs.ドンキーコング",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "07月23日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "af6ab650-6f7c-460d-930a-374c5f8a98a2",
+    "title": "謎の村雨城",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "07月30日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "44af3159-c95e-4928-8aba-4dbbd80eb1e4",
+    "title": "弟切草",
+    "platform": "SFC",
+    "publisher": "スパイク・チュンソフト",
+    "publishDate": "07月30日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "982cd194-7a50-42a6-a522-47dbd114b4c5",
+    "title": "BE BALL",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "07月30日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "c0151b86-e7d0-4cff-a183-6610a772a9ff",
+    "title": "ニュートピアII",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "07月30日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "4a3bcc1d-f38c-4448-8472-24bb1f7f6635",
+    "title": "ロックマンエグゼ バトルチップGP",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "07月30日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "67038d85-063a-4fd2-b4e9-6f6a2bc3266a",
+    "title": "ファイナルファイト",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "08月06日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "d5004c16-699b-463a-a3a2-01ea0915fd4e",
+    "title": "ロックマン7 宿命の対決!",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "08月06日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "f71a4331-3258-4e25-a49a-232ba88ab3e0",
+    "title": "ファイアーエムブレム 聖魔の光石",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "08月06日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "d6cc9cef-861c-4636-84c9-dd33199b13fd",
+    "title": "ファイアーエムブレム 外伝",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "08月20日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "252fe40b-0d5c-49ac-86b8-644a77f3a2f3",
+    "title": "ストリートファイターZERO2",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "08月20日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "678c12aa-8127-45ec-92ce-1b0108cc3fd7",
+    "title": "ミスタードリラー2",
+    "platform": "GBA",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "08月20日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "d7390444-9391-44b3-8a07-32f9aaa9ee91",
+    "title": "ファイナルファイト2",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "08月27日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "cc08b503-3f58-44d8-97d5-29470a3928c9",
+    "title": "学校であった怖い話",
+    "platform": "SFC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "08月27日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "21c41f94-8302-4d63-88c4-d7942b21f5d5",
+    "title": "ファイナルソルジャー",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "08月27日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "f0ea407b-f66d-4585-8b96-d724d72a9fe0",
+    "title": "改造町人シュビビンマン2 ―新たなる敵―",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "08月27日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "fb36563c-d2dd-4c0d-933c-cfd4556c366a",
+    "title": "悪魔城ドラキュラ サークル オブ ザ ムーン",
+    "platform": "GBA",
+    "publisher": "KONAMI",
+    "publishDate": "08月27日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "73a8128c-4359-4004-a238-be0411f353f0",
+    "title": "アドベンチャーズ オブ ロロ",
+    "platform": "FC",
+    "publisher": "ハル研究所",
+    "publishDate": "09月03日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "ce9bcd24-8db4-4c5f-b826-e667c2308069",
+    "title": "風のクロノア 〜夢見る帝国〜",
+    "platform": "GBA",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "09月03日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "00b5251d-db36-4691-a453-a1f1c1831dbe",
+    "title": "飛龍の拳 奥義の書",
+    "platform": "FC",
+    "publisher": "カルチャーブレーン",
+    "publishDate": "09月10日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "7f21ba2d-f128-4a82-badd-4fded2bb3484",
+    "title": "ブレス オブ ファイア 竜の戦士",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "09月10日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "cf0f6aaf-97c1-454c-9119-ad877e75beaf",
+    "title": "マリオゴルフ GBAツアー",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "09月10日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "e2b5f9a1-43f4-4574-8426-8e17816e14cb",
+    "title": "イー・アル・カンフー",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "09月17日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "22b00db7-c7c5-4c22-9f1e-aa14f74d3865",
+    "title": "ロードランナー",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "09月17日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "ef3bba6a-a285-4499-a832-84cc410091f5",
+    "title": "ビクトリーラン",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "09月17日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "94a083c8-54e0-4453-b4da-35aacfca2eeb",
+    "title": "スーパーマリオボール",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "09月17日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "27cc73b2-8d13-4a8c-9836-a825cc6c22cb",
+    "title": "高橋名人の冒険島",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "09月24日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "e7eafab3-9b8e-4fa3-bc5d-25dc07e3e3ab",
+    "title": "平成 新・鬼ヶ島 前編",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "09月24日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "589bd4a3-7d5b-467a-856c-900e1c53c78f",
+    "title": "平成 新・鬼ヶ島 後編",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "09月24日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "4f803a84-e428-4fd2-9b0d-ae1a5ad37053",
+    "title": "ソルジャーブレイド",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "09月24日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "23b804cf-d4fc-4214-98fe-1b1be2227a99",
+    "title": "マッハライダー",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "10月01日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "eb760b90-cc44-4e80-b48f-1996a3ec4571",
+    "title": "スーパーチャイニーズワールド",
+    "platform": "SFC",
+    "publisher": "カルチャーブレーン",
+    "publishDate": "10月01日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "445abfe3-b54b-4a80-9e5a-e7a4bbf80865",
+    "title": "F-ZERO ファルコン伝説",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "10月01日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "cbb80a9d-1bde-4601-b100-38b1a5f12245",
+    "title": "沙羅曼蛇",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "10月08日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "fa86af46-b8da-489b-8703-949d099be311",
+    "title": "つっぱり大相撲",
+    "platform": "FC",
+    "publisher": "コーエーテクモゲームス",
+    "publishDate": "10月08日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "74556cf3-a37a-4546-9f65-b583fe4c6558",
+    "title": "ロックマンX3",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "10月08日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "d4ef2f2f-f05f-4612-a53f-64c7f06b197f",
+    "title": "ディグダグ",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "10月15日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "0d68bbce-538f-4d4a-b241-1688d5b3f787",
+    "title": "2010 ストリートファイター",
+    "platform": "FC",
+    "publisher": "カプコン",
+    "publishDate": "10月15日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "5c09f379-897c-4cfb-b226-386bae755f90",
+    "title": "魂斗羅",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "10月15日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "cfc61c61-5ec6-4fad-97b3-87388dc26833",
+    "title": "スーパーマリオアドバンス3",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "10月15日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "3526e368-9e09-4d7a-8e0e-8ed4300da872",
+    "title": "バベルの塔",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "10月22日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "76cc1a4f-d211-4a8e-bcd9-f329f4d3e068",
+    "title": "燃えろ!!プロ野球",
+    "platform": "FC",
+    "publisher": "ハムスター",
+    "publishDate": "10月22日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "471b5942-a039-4b5b-b9ff-a9222b3ab3ff",
+    "title": "沙羅曼蛇",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "10月22日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "f1b38171-c7e4-4e89-80de-84e88ed16590",
+    "title": "パワーゴルフ",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "10月22日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "4b2f1ddb-35b4-4b08-a669-96fd7019c742",
+    "title": "ロックマン ゼロ",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "10月22日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "5159e3da-75a4-4840-8b50-0e5551c1449e",
+    "title": "五目ならべ 連珠",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "10月29日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "63affe7b-d6dd-4a4a-b6a0-4d3ead2fee7d",
+    "title": "SUPER 信長の野望・全国版",
+    "platform": "SFC",
+    "publisher": "コーエーテクモゲームス",
+    "publishDate": "10月29日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "44fe152e-6b96-4c2e-a6a8-da496cd48bee",
+    "title": "ファイナルファイト タフ",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "10月29日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "4ff06f46-e808-4d46-bccf-ee8c317689e7",
+    "title": "デビルワールド",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "11月05日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "411a1e8a-efb2-4d59-af33-46484da7676f",
+    "title": "びっくり熱血新記録!はるかなる金メダル",
+    "platform": "FC",
+    "publisher": "アークシステムワークス",
+    "publishDate": "11月12日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "19b781f6-7643-4630-ac1b-fc769bf08c6a",
+    "title": "ロックマン エグゼ 2",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "11月12日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "ed503bec-9189-4209-ae33-fa289eb9e6c8",
+    "title": "ナッツ&ミルク",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "11月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "8d9319b9-9683-4c49-9a8c-9c29f82bf6ec",
+    "title": "ボンバーマン'94",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "11月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "c5f7e283-a144-469c-bce9-f30c7e103b03",
+    "title": "けっきょく南極大冒険 ANTARCTIC ADVENTURE",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "11月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "b855df80-8e2b-4fb4-9c6b-2c925b4242f4",
+    "title": "ぶらぶらドンキー",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "11月19日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "97128c0b-97a3-4ce5-b76b-7133cbdc7d1d",
+    "title": "スーパードンキーコング",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "11月26日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "667ea6ad-f466-4af1-a4d0-d2f14d29d227",
+    "title": "スーパードンキーコング2 ディクシー&ディディー",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "11月26日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "fd34e67c-a942-4dd0-8bc8-936cf57bfbe4",
+    "title": "スーパードンキーコング3 謎のクレミス島",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "11月26日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "43e78cc1-5330-4bcf-b2d5-b4a06f25fc67",
+    "title": "出たな!! ツインビー",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "11月26日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "560d104e-c900-4eff-998b-c062a5a3819e",
+    "title": "サッカー",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "12月03日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "177574c2-23f0-47fe-a43b-e1d7d82e79b4",
+    "title": "ファミコンウォーズ",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "12月03日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "9527daee-17f2-4010-9dfa-7a0e9540ee3b",
+    "title": "ナムコミュージアム",
+    "platform": "GBA",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "12月10日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "08a6fa87-610e-4883-9015-db3eb170a9f2",
+    "title": "ポケモンピンボール ルビー&サファイア",
+    "platform": "GBA",
+    "publisher": "ポケモン",
+    "publishDate": "12月10日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "b0131976-0ba2-409e-bfff-a5025c1170f8",
+    "title": "デジタルチャンプ",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "12月17日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "d58d4b52-3a81-4bc4-aba1-4e58becf639a",
+    "title": "モトローダー",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "12月17日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "d9ddf2a9-749a-4087-acb1-70dc58eeb670",
+    "title": "悪魔城ドラキュラ",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "12月17日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "29a79906-32c2-4f03-b259-7f7d1f52c122",
+    "title": "ロックマン エグゼ 3",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "12月17日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "405a1909-3da9-47e4-887b-bcc00d08b1fe",
+    "title": "ロックマン エグゼ 3 BLACK",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "12月17日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "9079e1eb-149f-4237-aa3f-bb7f7ede3c93",
+    "title": "ダックハント",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "12月24日",
+    "publishYear": "2014年",
+    "remarks": ""
+  },
+  {
+    "id": "8ac4148b-57a2-43a8-accb-44de8b836378",
+    "title": "ナポレオン",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "01月07日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "69b3f703-8951-48e7-b9de-df08175911b1",
+    "title": "ロックマン ゼロ 2",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "01月07日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "98ec9278-1313-4a7a-b15e-13dc2ba28b0f",
+    "title": "重装機兵ヴァルケン",
+    "platform": "SFC",
+    "publisher": "KONAMI",
+    "publishDate": "01月14日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "05865993-334f-4cf4-a6cf-6d8d75eef54a",
+    "title": "最後の忍道",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "01月14日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "1f1d07f2-edac-4881-9e8a-f88662b50625",
+    "title": "イー・アル・カンフー",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "01月14日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "8c4e8c7c-44c9-42b5-ae40-172f3a7429e8",
+    "title": "超魔界村 R",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "01月14日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "8ca18a70-81ca-4623-9afd-eb339ddaac33",
+    "title": "ドラゴンバスター",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "01月21日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "c9e14700-4c36-48a1-8cec-9b345dacd8df",
+    "title": "BREAK IN",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "01月21日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "1aeab43a-1a11-4273-8e9e-f18618729915",
+    "title": "キャッスルヴァニア 白夜の協奏曲",
+    "platform": "GBA",
+    "publisher": "KONAMI",
+    "publishDate": "01月21日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "d3adf5ec-9e70-4544-a775-0217b309f47c",
+    "title": "へべれけ",
+    "platform": "FC",
+    "publisher": "サンソフト",
+    "publishDate": "01月28日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "25dbbeaf-de78-4227-8552-89e85bcc6159",
+    "title": "ラストバイブルIII",
+    "platform": "SFC",
+    "publisher": "アトラス",
+    "publishDate": "01月28日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "871d0f48-ec11-45b5-a5f4-86a04065ccb3",
+    "title": "ワルキューレの冒険 時の鍵伝説",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "02月04日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "e640b31d-c6b7-454d-a64d-41421fadc833",
+    "title": "すってはっくん",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "02月04日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "3fac4c13-eff0-4416-b2ca-ae10d2efd0ed",
+    "title": "マイティファイナルファイト",
+    "platform": "FC",
+    "publisher": "カプコン",
+    "publishDate": "02月10日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "3befc71f-6622-451a-8572-59620c6439c3",
+    "title": "ヘラクレスの栄光IV 神々からの贈り物",
+    "platform": "SFC",
+    "publisher": "パオン",
+    "publishDate": "02月10日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "1e662f7a-f3b5-4dab-b34b-c12dd6b09955",
+    "title": "ダブルダンジョン",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "02月10日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "aa2ab151-1092-41d9-a91c-3a3a66d22e89",
+    "title": "ビジランテ",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "02月10日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "8890e8c4-081f-4ad5-b3c4-366020538045",
+    "title": "ソニック アドバンス",
+    "platform": "GBA",
+    "publisher": "セガ",
+    "publishDate": "02月18日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "456dc1cb-7694-43ed-bee5-b3de379f97b0",
+    "title": "ロックマン&フォルテ",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "02月18日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "f53345f5-2dda-4b99-ae43-821c229b495c",
+    "title": "妖怪道中記",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "02月25日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "c7815694-cea6-429a-9736-a926a398f3fd",
+    "title": "アクスレイ",
+    "platform": "SFC",
+    "publisher": "KONAMI",
+    "publishDate": "02月25日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "6de62efd-b7b9-400d-98a3-8e0a333e8070",
+    "title": "がんばれゴエモン!からくり道中",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "02月25日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "9520dabd-74aa-4f06-9848-51b2f9bb4c14",
+    "title": "スカイキッド",
+    "platform": "FC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "03月04日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "8e765190-21c9-46fd-8d2a-9c916ddbd1c8",
+    "title": "ミリティア",
+    "platform": "SFC",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "03月04日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "a783f78c-7530-4f06-a03b-e25d51a3a4cd",
+    "title": "がんばれゴエモン2",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "03月11日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "e685df59-6758-47b2-b3e7-1c052d7824f0",
+    "title": "ミスタードリラーエース ふしぎなパクテリア",
+    "platform": "GBA",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "03月11日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "ca1dd29e-7bc9-426f-b1b4-1d128f4fb452",
+    "title": "スマッシュピンポン",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "03月18日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "cf7b7f80-f2f0-4e0d-b524-c7c9d797ec6b",
+    "title": "デビルクラッシュ",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "03月18日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "5dbef6a3-b2f6-4fae-b11f-660837a7043e",
+    "title": "レジェンド・オブ・ヒーロー・トンマ",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "03月18日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "2b0be26e-93d4-4f62-9b8e-abaf0bfea115",
+    "title": "ツインビー",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "03月18日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "9b362c50-ce80-42ec-9248-7ce395576b19",
+    "title": "ことばのパズル もじぴったんアドバンス",
+    "platform": "GBA",
+    "publisher": "バンダイナムコゲームス",
+    "publishDate": "03月18日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "9885a782-ba05-4c98-b513-6d69f63e3558",
+    "title": "ロックマン エグゼ 4 トーナメント レッドサン",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "03月25日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "71000e32-ad7f-485d-9ed5-7a602c99886b",
+    "title": "ロックマン エグゼ 4 トーナメント ブルームーン",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "03月25日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "c3666457-0e0d-424a-9065-9b925656866c",
+    "title": "ドンキーコング64",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "04月02日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "ee7e6890-fa7b-41f9-9718-51a01bb2fbb1",
+    "title": "New スーパーマリオブラザーズ",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "04月02日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "9bdaaadd-6f69-4d43-93e8-edb746fa2e6e",
+    "title": "やわらかあたま塾",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "04月02日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "d482f777-d78a-4caf-99f5-cc255211ce35",
+    "title": "月風魔伝",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "04月08日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "0865befc-fa5d-4f29-b57f-e48f786e1e29",
+    "title": "スーパーマリオ64",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "04月08日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "604edaf7-9932-41ec-9eb6-5b1c7cfcfd17",
+    "title": "ヨッシーアイランドDS",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "04月08日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "a84399e7-5078-4529-86dd-bf7126bcf209",
+    "title": "ドンキーコングJR.の算数遊び",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "04月15日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "f201d718-3356-497e-8e48-2487a9dc455a",
+    "title": "パワースポーツ",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "04月15日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "020ad1b8-c676-443c-8502-919a79108b4e",
+    "title": "Mr.HERIの大冒険",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "04月15日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "199e026e-71a5-41cd-8fbc-49f2db44d8d1",
+    "title": "ゴーファーの野望・EPISODE II",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "04月15日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "18b47745-a776-45d4-938b-1dfacc8ca2ce",
+    "title": "さわるメイドインワリオ",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "04月15日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "a34d2515-f844-4c44-9ca0-9018e3982219",
+    "title": "アトランチスの謎",
+    "platform": "FC",
+    "publisher": "サンソフト",
+    "publishDate": "04月22日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "d58bdc56-2489-4bde-a3ba-9a1cd725fa6b",
+    "title": "コズモギャング ザ パズル",
+    "platform": "SFC",
+    "publisher": "バンダイナムコエンターテインメント",
+    "publishDate": "04月28日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "40c831e1-4414-4043-9f98-72465563cb12",
+    "title": "マッピーランド",
+    "platform": "FC",
+    "publisher": "バンダイナムコエンターテインメント",
+    "publishDate": "05月13日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "1aaaf78c-6886-447d-a9cf-82bd6c1dd305",
+    "title": "ロックマン ゼロ 3",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "05月13日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "f6936ed8-4785-4a53-9e54-74b9c5e31a0c",
+    "title": "がんばれゴエモン外伝2 天下の財宝",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "05月20日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "2c4425ec-5b25-4eb6-ab09-ce7cfe94b107",
+    "title": "太閤立志伝",
+    "platform": "SFC",
+    "publisher": "コーエーテクモゲームス",
+    "publishDate": "05月20日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "e83f08c3-45fc-4bb2-aa10-ea53f4147445",
+    "title": "スカイジャガー",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "05月20日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "440cec82-8f73-461c-9916-8e5427c49548",
+    "title": "超惑星戦記 メタファイト",
+    "platform": "FC",
+    "publisher": "サンソフト",
+    "publishDate": "05月27日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "fad04f1d-bf5a-40d3-941f-4f542db594a8",
+    "title": "ファミリーテニスアドバンス",
+    "platform": "GBA",
+    "publisher": "バンダイナムコエンターテインメント",
+    "publishDate": "05月27日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "7a6d3d6f-1d94-4841-91dd-8d21566fcaa7",
+    "title": "すごろクエスト ダイスの戦士たち",
+    "platform": "FC",
+    "publisher": "アークシステムワークス",
+    "publishDate": "06月03日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "93d2fa27-b5fe-418f-b605-bccceef01804",
+    "title": "ロックマン ゼロ 4",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "06月03日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "9583b506-d2cb-47e4-a777-5c8359ba3bef",
+    "title": "POOYAN プーヤン",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "06月10日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "b1bbc820-c97b-4e12-8116-3aaeac6771a3",
+    "title": "マリオ&ルイージRPG2",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "06月10日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "8b203aa2-e200-40bc-becd-7349cba11fcc",
+    "title": "MOTHER",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "06月15日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "a4e54c6a-8a97-4aaf-b22f-fe7c2b4e664b",
+    "title": "ライブ・ア・ライブ",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "06月24日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "a29f308a-c52c-4113-a003-fab981a64290",
+    "title": "イメージファイト",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "06月24日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "ad28e763-0e15-434b-a797-f2e69fef0b44",
+    "title": "サーカスチャーリー",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "06月24日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "65fec8c7-d534-4a9b-bcff-91ae50dbeac5",
+    "title": "メタルスレイダーグローリー",
+    "platform": "FC",
+    "publisher": "ハル研究所",
+    "publishDate": "07月01日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "7db48828-98e9-4ca6-bed6-b9feb871e54d",
+    "title": "セクロス",
+    "platform": "FC",
+    "publisher": "ハムスター",
+    "publishDate": "07月01日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "ada1df82-ba15-4270-a97b-2da8fc451d7f",
+    "title": "Super Street FighterII X Revival",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "07月01日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "24bb239e-9351-4f6d-9654-7cefd7ebbe2d",
+    "title": "チャンピオンシップ・ロードランナー",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "07月08日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "cf9ea676-e184-4e61-be7a-89b2b6125e91",
+    "title": "デモンズブレイゾン 魔界村 紋章編",
+    "platform": "SFC",
+    "publisher": "カプコン",
+    "publishDate": "07月08日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "feb38aa8-14aa-429e-9892-9b365ab2077e",
+    "title": "ドンキーコング ジャングルクライマー",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "07月08日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "2829f6ed-f389-4eb6-bf82-a3468bde8c96",
+    "title": "バイオミラクル ぼくってウパ",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "07月15日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "df0afd20-f59c-4b42-bf92-3f40909e1bff",
+    "title": "魔神転生",
+    "platform": "SFC",
+    "publisher": "アトラス",
+    "publishDate": "07月15日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "edb8c1dd-4b2a-4444-ba85-cb6b3ed10d32",
+    "title": "マリオストーリー",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "07月15日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "38702172-0663-4064-976f-ff82ea23ecc8",
+    "title": "ESPER DREAM",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "07月22日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "cbdfd379-4611-4278-8d71-8552a6abb396",
+    "title": "スーパー蒼き狼と白き牝鹿 元朝秘史",
+    "platform": "SFC",
+    "publisher": "コーエーテクモゲームス",
+    "publishDate": "07月22日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "e9db3a4a-9cf5-464d-9621-a727e3d78367",
+    "title": "ダンジョンエクスプローラー",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "07月22日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "e64a3c1d-d10e-4593-851d-be5fc0a9475d",
+    "title": "マリオカートアドバンス",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "07月22日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "f8a4f11c-5b92-4a32-8023-f5303a49c28b",
+    "title": "アルバートオデッセイ",
+    "platform": "SFC",
+    "publisher": "サンソフト",
+    "publishDate": "07月29日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "e241d40f-0e36-4135-9071-8199c444a6cd",
+    "title": "伝説のスタフィー",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "07月29日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "ed7a79cf-cfe7-40ce-89a5-d5797dbc676b",
+    "title": "ファイナルファイト ONE",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "07月29日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "1940c708-0d4c-467e-b29d-ca773514cdd3",
+    "title": "ダウンタウン熱血物語",
+    "platform": "FC",
+    "publisher": "アークシステムワークス",
+    "publishDate": "08月05日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "d76329fa-5ebd-47f0-ae2d-157ccceb4ff8",
+    "title": "スーパーマリオRPG",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "08月05日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "3a16dcfd-566b-45b6-81b6-f00364e83b4b",
+    "title": "東北大学未来科学技術共同研究センター川島隆太教授監修脳を鍛える大人のDSトレーニング",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "08月05日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "dd9d7456-d74d-4b44-88d0-9b84f605a10e",
+    "title": "すーぱーぐっすんおよよ",
+    "platform": "SFC",
+    "publisher": "バンダイナムコエンターテインメント",
+    "publishDate": "08月19日",
+    "publishYear": "2015年",
+    "remarks": "2016年9月30日配信終了"
+  },
+  {
+    "id": "d4e59480-2d09-4016-9747-10ceafc6f032",
+    "title": "マジカル ツリー",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "08月19日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "b4f74d43-9b52-4e74-bc9e-6f42d9f8dfc6",
+    "title": "マジカルバケーション",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "08月19日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "c0145265-ebdb-46f2-914f-74b7251fc45a",
+    "title": "星のカービィ64",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "08月19日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "0b9dcc14-b198-4ef4-ad8c-58904fe8683d",
+    "title": "SUPER E.D.F. EARTH DEFENSE FORCE",
+    "platform": "SFC",
+    "publisher": "ハムスター",
+    "publishDate": "08月26日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "2f24205d-7865-4a97-8116-14698a27a4e3",
+    "title": "トマトアドベンチャー",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "08月26日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "4ea62941-3887-4e12-9628-6110ff1071d0",
+    "title": "キャッスルヴァニア 暁月の円舞曲",
+    "platform": "GBA",
+    "publisher": "KONAMI",
+    "publishDate": "08月26日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "b785c735-4a6c-4c17-9ead-dffbc081073b",
+    "title": "ワイワイワールド2 SOS!!パセリ城",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "09月02日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "52e7a6e0-76c9-4772-8c03-234febf884fa",
+    "title": "ファイアーエムブレム 封印の剣",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "09月02日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "61b2ba94-60c3-4a14-a638-d12d803b7ec7",
+    "title": "マリオゴルフ64",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "09月02日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "dbc75978-014c-4ed6-a4c0-2177135e0faf",
+    "title": "ロックマン エグゼ 5 チーム オブ カーネル",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "09月09日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "0faae06b-bb9c-4dfa-b593-a9c76dc6d33b",
+    "title": "ロックマン エグゼ 5 チーム オブ ブルース",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "09月09日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "0783cb67-d8f5-4977-b64b-3c96a44dc8a7",
+    "title": "星のカービィ 参上!ドロッチェ団",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "09月09日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "675b5def-8e74-4d82-a3aa-dd10dd80083c",
+    "title": "VS.エキサイトバイク",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "09月16日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "12c10062-ef43-436c-b188-0f14746b312d",
+    "title": "エクセリオン",
+    "platform": "FC",
+    "publisher": "ハムスター",
+    "publishDate": "09月16日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "e541118a-51fa-43f5-9178-f01aca4cddb8",
+    "title": "ボンバーマン ぱにっくボンバー",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "09月16日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "ab3134dd-009e-4963-8139-43d7e1febca4",
+    "title": "ラッシング・ビート",
+    "platform": "SFC",
+    "publisher": "ハムスター",
+    "publishDate": "09月30日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "c08ad92f-ed09-491c-8efd-1b65c0bc6c13",
+    "title": "グラディウス",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "09月30日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "db9b0668-7da2-4479-80d4-92634db305a6",
+    "title": "メトロイドプライム ハンターズ",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "09月30日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "23d8ea92-c5d0-4e2d-a71e-b0beb7501059",
+    "title": "かんしゃく玉なげカン太郎の東海道五十三次",
+    "platform": "FC",
+    "publisher": "サンソフト",
+    "publishDate": "10月07日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "97f84fa2-35c5-4e06-a312-aa49bc396f8f",
+    "title": "怪盗ワリオ・ザ・セブン",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "10月07日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "e278176c-3d4f-47a7-8a7a-baf3f02b0812",
+    "title": "メダロットG カブトバージョン",
+    "platform": "GBA",
+    "publisher": "ロケットカンパニー",
+    "publishDate": "10月14日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "59e90cd0-c48e-41d5-9b2d-278ae8525950",
+    "title": "メダロットG クワガタバージョン",
+    "platform": "GBA",
+    "publisher": "ロケットカンパニー",
+    "publishDate": "10月14日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "72439679-7e9b-4e1e-a1b2-6ca81bc02185",
+    "title": "がんばれゴエモン外伝 きえた黄金キセル",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "10月21日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "77a90a31-369a-4496-a037-677a3d31e9b7",
+    "title": "ウィンズ オブ サンダー",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "10月21日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "74264855-985d-4b7d-99b7-1de9677a8086",
+    "title": "チューチューロケット!",
+    "platform": "GBA",
+    "publisher": "セガゲームス",
+    "publishDate": "10月21日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "aea53af5-515a-46da-9e7d-b25f23105c74",
+    "title": "もえろツインビー シナモン博士を救え!",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "10月28日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "d5a5dfda-aa0d-4db2-8f25-3d5ac9708fac",
+    "title": "ハイパースポーツ2",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "10月28日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "9fb45393-a71e-4d75-ba8e-43fd96dbb09b",
+    "title": "マリオパーティアドバンス",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "10月28日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "4155849c-932b-468b-a73f-64f4041576ce",
+    "title": "スターラスター",
+    "platform": "FC",
+    "publisher": "バンダイナムコエンターテインメント",
+    "publishDate": "11月04日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "6d860675-c033-495d-8791-2af770f8aeb5",
+    "title": "逆転裁判",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "11月04日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "a1f83d05-8470-493c-b3bc-4515f13ccced",
+    "title": "ワギャンランド2",
+    "platform": "FC",
+    "publisher": "バンダイナムコエンターテインメント",
+    "publishDate": "11月11日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "33d739f0-7d47-4275-9301-0b7670a02ed4",
+    "title": "豪血寺一族",
+    "platform": "SFC",
+    "publisher": "アトラス",
+    "publishDate": "11月11日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "c24e8627-8c7f-48c8-94cb-2ec0cbeaf035",
+    "title": "ロックマン エグゼ 6 電脳獣グレイガ",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "11月18日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "5d5a8a0a-462b-4c4f-9e78-3ae75daa3187",
+    "title": "ロックマン エグゼ 6 電脳獣ファルザー",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "11月18日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "727da415-5843-44fd-a4e3-3326ece625c8",
+    "title": "フィールドコンバット",
+    "platform": "FC",
+    "publisher": "ハムスター",
+    "publishDate": "11月25日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "daf2b794-895c-4202-9c3c-2c114067e94b",
+    "title": "メトロクロス",
+    "platform": "FC",
+    "publisher": "バンダイナムコエンターテインメント",
+    "publishDate": "11月25日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "b5a60f5d-8964-4741-8818-10e885c36f5f",
+    "title": "イメージファイトII",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "11月25日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "42473ddd-4729-4138-9e61-fee83c43626a",
+    "title": "コナミのサッカー",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "11月25日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "f6058314-1d05-4c27-b561-13c7e0ba0476",
+    "title": "ルドラの秘宝",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "12月02日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "e6f49085-ddf2-45bd-968f-0f25e8169042",
+    "title": "逆転裁判2",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "12月02日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "8f7225b3-d93e-4cfc-a37d-6050d1882e06",
+    "title": "メタルスレイダーグローリー ディレクターズカット",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "12月09日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "8a241f78-78a9-4d7b-b116-04c67750d0a9",
+    "title": "くるりんパラダイス",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "12月09日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "878ab625-ccb0-4e48-949a-ef343acf82dd",
+    "title": "改造町人シュビビンマン",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "12月16日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "e157cb7f-5a94-4c33-b4e4-bf6f6268ec2b",
+    "title": "F-ZERO CLIMAX",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "12月16日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "6f15ef5d-2ff6-4dfe-80c1-1f6498d20c0e",
+    "title": "スクリューブレイカー 轟振どりるれろ",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "12月16日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "29b98612-c61b-4a07-a2a9-c92f61ab7736",
+    "title": "MOTHER3",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "12月17日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "c20483a3-4d19-48cc-92f1-1f14a8306fc3",
+    "title": "ゼルダの伝説 時のオカリナ",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "12月22日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "cb3a436c-19d4-49e9-b48c-2ca24edae95a",
+    "title": "ファイナルファンタジーVI アドバンス",
+    "platform": "GBA",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "12月22日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "d8f76e22-99cd-483a-885a-98481332cf5d",
+    "title": "スーパーマリオアドバンス4",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "12月29日",
+    "publishYear": "2015年",
+    "remarks": ""
+  },
+  {
+    "id": "af1065d2-f5ae-487a-bfff-b5ee7d951717",
+    "title": "マリオカート64",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "01月06日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "ad94ae15-d5ce-4335-8628-b1835bc617c1",
+    "title": "スーパーマリオ64DS",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "01月06日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "c3f0aa14-742d-48a7-8b71-f7d82195528c",
+    "title": "ファイナルファンタジーI・II アドバンス",
+    "platform": "GBA",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "01月06日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "c2f0ae8d-12d4-4810-96e8-159cd41bada5",
+    "title": "通勤ヒトフデ",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "01月13日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "cc6808fc-5c2c-4335-abb1-00508903daaa",
+    "title": "ロックマン エグゼ 4.5 リアルオペレーション",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "01月13日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "e588c604-96e8-4054-b54c-205c733c9e04",
+    "title": "テン・エイティ スノーボーディング",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "01月20日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "ed13edc3-ab59-4509-97e2-23f4678f9922",
+    "title": "風のクロノアG2 ドリームチャンプ・トーナメント",
+    "platform": "GBA",
+    "publisher": "バンダイナムコエンターテインメント",
+    "publishDate": "01月20日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "8d93e848-ba8b-4654-aff2-a21fd4b92175",
+    "title": "うさぎの国のカンガルーレース ワラビー!!",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "01月27日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "577f57a2-ba14-4e47-8cff-5cd3079d8439",
+    "title": "メダロット弐CORE カブトVer.",
+    "platform": "GBA",
+    "publisher": "ロケットカンパニー",
+    "publishDate": "01月27日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "5f91ad78-69b5-4152-bba8-da125d949db1",
+    "title": "メダロット弐CORE クワガタVer.",
+    "platform": "GBA",
+    "publisher": "ロケットカンパニー",
+    "publishDate": "01月27日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "6d4c8202-ed1e-4ecb-9eea-7fbff4f76457",
+    "title": "コナミ ワイワイレーシング アドバンス",
+    "platform": "GBA",
+    "publisher": "KONAMI",
+    "publishDate": "02月03日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "4a6a6481-eafc-4f4e-b5be-eb4eec96804c",
+    "title": "タッチ! カービィ",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "02月03日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "0d411b28-dddc-4585-9e9a-466d9329e6e9",
+    "title": "チョコボランド",
+    "platform": "GBA",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "02月10日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "34222ce3-cea8-4d49-951b-1309b5c168e0",
+    "title": "ファイアーエムブレム 新・暗黒竜と光の剣",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "02月10日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "5b033e50-86bf-40b6-a0d6-a59df4241811",
+    "title": "シャイニング・ソウル",
+    "platform": "GBA",
+    "publisher": "セガゲームス",
+    "publishDate": "02月17日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "283a8499-51c8-4dad-9fa0-02caa3f48765",
+    "title": "ヨッシーストーリー",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "02月17日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "da94317e-fa61-4578-8e72-261169f6f628",
+    "title": "ガイフレーム",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "02月24日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "62d764d9-7ebf-43b8-951f-35ee9e18666b",
+    "title": "ソニック アドバンス2",
+    "platform": "GBA",
+    "publisher": "セガゲームス",
+    "publishDate": "02月24日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "3b79d2e6-433f-414c-b6f3-b96ef1c55d2a",
+    "title": "鬼武者〜Onimusha Tactics〜",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "02月24日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "0b8afe31-13d9-42b9-8f51-48a156a99bd0",
+    "title": "逆転裁判3",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "03月02日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "81d09c39-ad48-4baa-82a7-10c937e918b3",
+    "title": "あつめて!カービィ",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "03月02日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "28d71d07-3a11-4891-a695-ff65d55d4120",
+    "title": "魂斗羅ハードスピリッツ",
+    "platform": "GBA",
+    "publisher": "KONAMI",
+    "publishDate": "03月09日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "b760e8de-af53-4de3-b0d8-aa53f1fb4993",
+    "title": "シャイニング・ソウルII",
+    "platform": "GBA",
+    "publisher": "セガゲームス",
+    "publishDate": "03月09日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "4d90fa61-f617-467b-b3bf-4ce1d433dcb1",
+    "title": "伝説のスタフィー2",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "03月16日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "03ed7063-c667-4d5c-9e08-6b1a9ce61f93",
+    "title": "ゲームボーイギャラリー4",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "03月16日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "66b2fa29-f3cf-4fca-8169-cb8d7ad19c6f",
+    "title": "超兄貴",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "03月23日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "2ee3ba58-4249-4c4f-bba4-d2245dce8890",
+    "title": "ポケモン不思議のダンジョン 赤の救助隊",
+    "platform": "GBA",
+    "publisher": "ポケモン",
+    "publishDate": "03月23日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "74871d97-4773-46f2-b249-ec8fc778077b",
+    "title": "ポケモン不思議のダンジョン 青の救助隊",
+    "platform": "DS",
+    "publisher": "ポケモン",
+    "publishDate": "03月23日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "03f9997c-ce80-4938-88e0-c051ff7bd314",
+    "title": "マリオパーティ2",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "03月30日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "577e9c4c-6c4f-4203-9c2c-7dc3a70d1832",
+    "title": "ファイナルファンタジータクティクス アドバンス",
+    "platform": "GBA",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "03月30日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "c7775413-a8a3-4e0d-baf9-da532221f6ef",
+    "title": "ポケモンスナップ",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "04月06日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "3aad0dc7-6649-4612-a76f-650aad353bd5",
+    "title": "伝説のスタフィー3",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "04月06日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "d2f8a19b-c7bd-4bc1-8dda-9a0c8fc96842",
+    "title": "ファイナルファンタジーIV アドバンス",
+    "platform": "GBA",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "04月13日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "7f795006-ec59-4646-bfc7-69edb67a8cb2",
+    "title": "ポケモンレンジャー",
+    "platform": "DS",
+    "publisher": "ポケモン",
+    "publishDate": "04月13日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "f3defda3-fe90-4ad5-94df-1078233d4633",
+    "title": "愛・超兄貴",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "04月20日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "8065a57f-70d6-46f9-b323-d40a8f583903",
+    "title": "ファイナルファンタジーV アドバンス",
+    "platform": "GBA",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "04月20日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "73142b47-6543-4cf4-a384-ebc1b46f0cbd",
+    "title": "ファミコンウォーズDS",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "04月20日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "26be7d6d-23f1-4376-86af-514b2bcf3000",
+    "title": "罪と罰 〜地球の継承者〜",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "04月27日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "8f258f40-8195-4f49-92ce-430baf22a1e5",
+    "title": "マリオパーティDS",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "04月27日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "c97184a4-5cb4-4757-82cb-5ab7e66ac917",
+    "title": "川のぬし釣り3&4",
+    "platform": "GBA",
+    "publisher": "マーベラス",
+    "publishDate": "05月11日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "8030f81a-501a-4347-b1cb-d1bbda0b681e",
+    "title": "マリオバスケ 3on3",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "05月11日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "a73498b2-3d83-4f60-a6f9-e9bd496cd325",
+    "title": "シャイニング・フォース 黒き竜の復活",
+    "platform": "GBA",
+    "publisher": "セガゲームス",
+    "publishDate": "05月18日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "9c2b89f4-7056-41b1-8bc7-4e0674c5ae49",
+    "title": "キャッチ!タッチ!ヨッシー!",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "05月18日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "4d020277-f21d-41b6-b496-ab76a0477939",
+    "title": "グラディウス2",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "05月25日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "340833a2-e12d-47e8-be03-b37e86efb68b",
+    "title": "ソニック アドバンス3",
+    "platform": "GBA",
+    "publisher": "セガゲームス",
+    "publishDate": "05月25日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "bd465222-b13b-440e-bbc0-db079a626b6e",
+    "title": "マリオカートDS",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "05月25日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "f30b9295-a0fb-4232-817d-19b2a14b15c8",
+    "title": "魔神転生II SPIRAL NEMESIS",
+    "platform": "SFC",
+    "publisher": "アトラス",
+    "publishDate": "06月01日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "e27c371f-d7ef-4856-bf69-6045bcb5c48e",
+    "title": "グランボ",
+    "platform": "GBA",
+    "publisher": "カプコン",
+    "publishDate": "06月01日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "4e6b0d63-8236-45dc-8497-0817fd21307c",
+    "title": "カスタムロボV2",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "06月08日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "5d1c4dc6-06ee-488c-9931-7f1f8b59aae6",
+    "title": "千年家族",
+    "platform": "GBA",
+    "publisher": "任天堂",
+    "publishDate": "06月08日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "a21486b2-2257-4360-abea-d21641ab4aab",
+    "title": "メダロットナビ カブト",
+    "platform": "GBA",
+    "publisher": "ロケットカンパニー",
+    "publishDate": "06月15日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "0537da4a-485f-4a53-9fe4-e2aee59850aa",
+    "title": "メダロットナビ クワガタ",
+    "platform": "GBA",
+    "publisher": "ロケットカンパニー",
+    "publishDate": "06月15日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "bf0b206b-9e7a-4713-9035-87172dc696bb",
+    "title": "ホーガンズアレイ",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "06月22日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "65e47218-0a84-4149-9954-160d393aa195",
+    "title": "ワイルドガンマン",
+    "platform": "FC",
+    "publisher": "任天堂",
+    "publishDate": "06月22日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "26b78c2f-e7d4-4d1b-b10c-00a95f65699f",
+    "title": "フロントライン",
+    "platform": "FC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "06月29日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "5c52de58-7c06-43e9-877b-aa030381f1f7",
+    "title": "ゼルダの伝説 ムジュラの仮面",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "06月29日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "ff8502b5-9b08-464b-b990-e1136d561199",
+    "title": "キングスナイト",
+    "platform": "FC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "07月06日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "e92aedaf-b8c1-49e4-a5ce-d2914411415c",
+    "title": "川のぬし釣り5 〜不思議の森から〜",
+    "platform": "GBA",
+    "publisher": "マーベラス",
+    "publishDate": "07月06日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "bc2d8c05-36a8-4a8c-a518-452a4a8437c6",
+    "title": "ウエーブレース64",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "07月13日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "577fdc80-cf06-4b42-947d-79f72e5ac6f5",
+    "title": "わがままファッション GIRLS MODE",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "07月13日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "c87fda44-d0fa-4884-87da-9d9b18beab68",
+    "title": "沙羅曼蛇",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "07月20日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "52933d42-f3ab-497c-84b7-a0cab0dc9460",
+    "title": "マリオテニス64",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "07月20日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "ec5abe75-577f-4879-9c6b-6b91b27db6bd",
+    "title": "ポケモン不思議のダンジョン 空の探検隊",
+    "platform": "DS",
+    "publisher": "ポケモン",
+    "publishDate": "07月20日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "26c1ddcd-8024-4ad1-8db5-b14c477ab8f6",
+    "title": "おいでよ どうぶつの森",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "07月27日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "52845866-7362-4184-9eca-c974d8f719cb",
+    "title": "ポケモンレンジャー バトナージ",
+    "platform": "DS",
+    "publisher": "ポケモン",
+    "publishDate": "07月27日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "2453d69c-542c-45ee-acea-9533177f3c77",
+    "title": "ゼルダの伝説 夢幻の砂時計",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "08月03日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "38a2e324-3b67-4d80-ad20-c96b3596fa97",
+    "title": "ポケモンレンジャー 光の軌跡",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "08月03日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "23e1be57-7cff-4624-9b87-bc384fc8c084",
+    "title": "ゼルダの伝説 大地の汽笛",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "08月09日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "64b173ff-bb5a-4b40-9861-2ff38c2cdc93",
+    "title": "沈黙の遺跡 ～エストポリス外伝～",
+    "platform": "GBA",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "08月17日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "e91cf69e-39ad-4524-ae96-43ee7bb5a74e",
+    "title": "マリオvs.ドンキーコング2 ミニミニ大行進!",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "08月17日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "0363febe-c996-4a56-bcc0-d3ef522b5e23",
+    "title": "ウシャス",
+    "platform": "MSX",
+    "publisher": "KONAMI",
+    "publishDate": "08月24日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "164c18d0-d374-48b5-9205-9eeb27047ad9",
+    "title": "闘いの挽歌",
+    "platform": "FC",
+    "publisher": "カプコン",
+    "publishDate": "08月31日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "af4085a5-73e0-44bb-8e62-b5e01a056749",
+    "title": "スターフォックス64",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "08月31日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "8a2bc2e3-33f6-4284-9d2d-b40d22beceed",
+    "title": "ディグダグII",
+    "platform": "FC",
+    "publisher": "バンダイナムコエンターテインメント",
+    "publishDate": "09月07日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "eca077e9-59ff-4971-b147-c791472477c8",
+    "title": "晦-つきこもり",
+    "platform": "SFC",
+    "publisher": "バンダイナムコエンターテインメント",
+    "publishDate": "09月07日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "ed089380-db84-4863-b6d4-8c85e44e6ef5",
+    "title": "マグマックス",
+    "platform": "FC",
+    "publisher": "ハムスター",
+    "publishDate": "09月14日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "63463727-7a39-4885-a4df-0933dbee1bf4",
+    "title": "ダブルドラゴンII ザ・リベンジ",
+    "platform": "FC",
+    "publisher": "アークシステムワークス",
+    "publishDate": "09月14日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "4fcb4956-b67c-4143-a24e-dfed77f0af59",
+    "title": "マッド・シティ",
+    "platform": "FC",
+    "publisher": "KONAMI",
+    "publishDate": "09月21日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "b760a9ce-a145-4ed4-a840-d0a39b1f7741",
+    "title": "飛龍の拳Ⅱ ドラゴンの翼",
+    "platform": "FC",
+    "publisher": "カルチャーブレーンエクセル",
+    "publishDate": "09月21日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "de431ef9-53e3-4757-92e7-f69a17ee4c9e",
+    "title": "レッキングクルー'98",
+    "platform": "SFC",
+    "publisher": "任天堂",
+    "publishDate": "09月28日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "2c4b306d-e8a9-424f-91e3-6630960a216e",
+    "title": "改造町人シュビビンマン3 －異界のプリンセス－",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "09月28日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "cfa66a5d-f971-4ec1-8a8c-10f9a3e059b8",
+    "title": "スターフォックス コマンド",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "09月28日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "70f8a2ce-92f2-46ac-8c5a-b5ff44eb9174",
+    "title": "SPACE INVADERS The Original Game",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "10月12日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "93f48601-f361-4a2b-a928-f0ce0abfdd1e",
+    "title": "ダライアスツイン DARIUS TWIN",
+    "platform": "SFC",
+    "publisher": "スクウェア・エニックス",
+    "publishDate": "10月12日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "3a697574-c4fb-4636-8b7f-3119d3ee8943",
+    "title": "スーパーチャイニーズ2 ドラゴンキッド",
+    "platform": "FC",
+    "publisher": "カルチャーブレーンエクセル",
+    "publishDate": "10月19日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "e758853b-518a-4b9f-a342-fe45e6631014",
+    "title": "立体ピクロス",
+    "platform": "DS",
+    "publisher": "任天堂",
+    "publishDate": "10月19日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "0f83d4ee-0b7c-4177-9791-c3033513005d",
+    "title": "超人ウルトラベースボール",
+    "platform": "FC",
+    "publisher": "カルチャーブレーンエクセル",
+    "publishDate": "10月26日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "12e934fd-c84a-4dba-a810-9a42e4c09403",
+    "title": "F-ZERO X",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "11月02日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "a8386d20-a15f-427c-b15b-a1e366aa803b",
+    "title": "バトルロードランナー",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "12月21日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "5a67ce02-c083-4087-affb-84b28112fb6a",
+    "title": "ボンバーマン'93",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "12月28日",
+    "publishYear": "2016年",
+    "remarks": ""
+  },
+  {
+    "id": "ff97a0f6-518a-455b-9718-bfb5d9c0c625",
+    "title": "シティコネクション",
+    "platform": "FC",
+    "publisher": "シティコネクション",
+    "publishDate": "03月29日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "171e5026-0b09-4b54-9287-9a4351f386ee",
+    "title": "フォーメーションZ",
+    "platform": "FC",
+    "publisher": "シティコネクション",
+    "publishDate": "03月29日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "f3e12867-d1cb-4b96-9238-88a4878fbd7d",
+    "title": "美少女雀士スーチーパイ",
+    "platform": "SFC",
+    "publisher": "シティコネクション",
+    "publishDate": "03月29日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "b0c5e9b6-793c-4c97-ba18-f0bf37046363",
+    "title": "ファイヤー・ファイティング",
+    "platform": "SFC",
+    "publisher": "シティコネクション",
+    "publishDate": "03月29日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "d17f9867-96fa-4ee2-b5f0-abd03d01c5d0",
+    "title": "邪聖剣ネクロマンサー",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "03月29日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "1e5975e7-77d7-40bc-a0f8-a2d7da5595c8",
+    "title": "ラングリッサー ～光輝の末裔～",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "03月29日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "c4c5214f-02e1-43ab-9efa-ce657e48c890",
+    "title": "ガイアの紋章",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "04月19日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "eb0f546f-df16-4438-a91b-d6c425b4c655",
+    "title": "モトローダーII",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "04月19日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "8527269e-0d63-4b3e-ba23-d3d528b9b425",
+    "title": "モトローダーMC",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "04月26日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "257b2f1f-8cdb-453e-b7d4-2d4dd5c9c2b7",
+    "title": "飛装騎兵カイザード",
+    "platform": "PCE",
+    "publisher": "エクストリーム",
+    "publishDate": "04月26日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "365a0404-be76-41cc-856a-56111b486cca",
+    "title": "どらごんEGG!",
+    "platform": "PCE",
+    "publisher": "KONAMI",
+    "publishDate": "04月26日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "5a69bb25-0c17-4292-8523-9b77d029881a",
+    "title": "エキサイトバイク64",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "06月21日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "9dd9f4f1-d4b1-458a-aec6-3e57eac46930",
+    "title": "爆BOMBERMAN",
+    "platform": "N64",
+    "publisher": "KONAMI",
+    "publishDate": "06月28日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "253496e8-b8d2-42c9-ae4b-4fcd29ccee6e",
+    "title": "牧場物語2",
+    "platform": "N64",
+    "publisher": "マーベラス",
+    "publishDate": "07月05日",
+    "publishYear": "2017年",
+    "remarks": ""
+  },
+  {
+    "id": "89a06b19-a5d4-4ad7-8505-8724792051e3",
+    "title": "オウガバトル64",
+    "platform": "N64",
+    "publisher": "任天堂",
+    "publishDate": "07月05日",
+    "publishYear": "2017年",
+    "remarks": ""
+  }
+]
