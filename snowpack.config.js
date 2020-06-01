@@ -5,4 +5,5 @@ module.exports = {
     '**/*.@(spec|test).@(js|mjs)',
     '**/server/**/*',
   ],
+  plugins: [['@snowpack/plugin-webpack']],
 }

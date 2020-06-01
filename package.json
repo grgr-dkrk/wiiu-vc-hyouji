@@ -7,9 +7,13 @@
     "test": "jest",
     "run:server": "ts-node src/server/index.ts",
     "dev": "snowpack dev",
-    "build": "snowpack build"
+    "cleanbuild": "rm -r ./build/.vscode && rm -r ./build/src && rm ./build/package.json && rm ./build/snowpack.config.js && rm ./build/tsconfig.json && rm ./build/jest.config.js && rm ./build/yarn.lock",
+    "build": "snowpack build && yarn cleanbuild && mv ./build ./docs",
+    "serve": "http-server ./build/"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.10.2",
+    "@snowpack/plugin-webpack": "^1.0.5",
     "@types/date-fns": "^2.6.0",
     "@types/dom-parser": "^0.1.0",
     "@types/jest": "^25.2.3",
@@ -18,6 +22,7 @@
     "@types/react-dom": "^16.9.8",
     "@types/styled-components": "^5.1.0",
     "@types/uuid": "^8.0.0",
+    "http-server": "^0.12.3",
     "jest": "^26.0.1",
     "snowpack": "^2.1.1",
     "ts-jest": "^26.1.0",
