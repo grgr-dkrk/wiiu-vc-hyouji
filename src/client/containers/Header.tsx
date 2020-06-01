@@ -1,6 +1,7 @@
 import * as React from 'react'
 import { SITE_INFO } from '../../constants'
 import styled from 'styled-components'
+import { BREAK_POINT } from '../styles/valiables'
 
 export const Header = () => (
   <StyledHeader role="banner">
@@ -20,5 +21,12 @@ const StyledHeader = styled.header`
   text-align: center;
   h1 {
     font-size: 2.4rem;
+    ${BREAK_POINT.MID} {
+      font-size: 2rem;
+    }
+  }
+  ${BREAK_POINT.MID} {
+    width: 95%;
+    margin: auto;
   }
 `

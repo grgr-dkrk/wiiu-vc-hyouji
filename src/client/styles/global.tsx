@@ -16,6 +16,9 @@ export const GlobalStyle = createGlobalStyle`
       sans-serif;
     line-height: 1.4;
     font-size: 1.6rem;
+    ${BREAK_POINT.MID} {
+      font-size: 1.5rem;
+    }
   }
   ul,
   ol {
@@ -31,13 +34,6 @@ export const GlobalStyle = createGlobalStyle`
   }
   a {
     text-decoration: none;
-  }
-  p {
-    font-size: 1.8rem;
-    line-height: 1.5;
-    ${BREAK_POINT.MID} {
-      font-size: 1.6rem;
-    }
   }
   main {
     display: block;

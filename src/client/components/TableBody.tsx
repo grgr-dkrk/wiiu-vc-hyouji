@@ -27,4 +27,5 @@ const StyledTr = styled.tr`
 const StyledTd = styled.td`
   border: 1px solid #bbb;
   padding: 0.4em;
+  max-width: 440px;
 `

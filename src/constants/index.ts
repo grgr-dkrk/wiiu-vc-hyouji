@@ -1,4 +1,4 @@
 export const SITE_INFO = {
-  TITLE: 'WiiUのVCを集めただけのページ',
+  TITLE: 'WiiU VCを表示するだけのページ',
   COPYRIGHT: '2020 grgr-dkrk',
 }

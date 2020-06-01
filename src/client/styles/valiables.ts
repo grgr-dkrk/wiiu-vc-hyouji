@@ -18,9 +18,9 @@ export const SITE_COLOR = {
 export const BREAK_POINT = {
   SMALL: mq(400, 'max'),
   SMALL_MIN: mq(400, 'min'),
-  MID: mq(768, 'max'),
-  MID_MIN: mq(768, 'min'),
-  MID_MIN_MAX: mq(768, 'minMax'),
+  MID: mq(767, 'max'),
+  MID_MIN: mq(767, 'min'),
+  MID_MIN_MAX: mq(767, 'minMax'),
 }
 
 function mq(bp: number, type: string) {
