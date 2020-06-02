@@ -10,7 +10,7 @@
     "cleanbuild": "rm -rf ./docs && mkdir -p ./docs/js && cp -r ./build/js/ ./docs/js/ && cp ./build/index.html ./docs/index.html && rm -rf ./build",
     "replaceModulePath": "sed -i -e 's|src=\"/js|src=\"./js|g' ./docs/index.html",
     "build": "snowpack build && yarn cleanbuild",
-    "buildLinux": "snowpack build && yarn cleanbuild && replaceModulePath",
+    "buildLinux": "snowpack build && yarn cleanbuild && yarn replaceModulePath",
     "serve": "http-server ./build/"
   },
   "devDependencies": {
