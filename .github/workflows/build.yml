@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      -name: Install Modules
+      - name: Install Modules
         run: yarn install
 
       - name: Build
