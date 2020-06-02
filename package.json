@@ -7,8 +7,9 @@
     "test": "jest",
     "run:server": "ts-node src/server/index.ts",
     "dev": "snowpack dev",
-    "cleanbuild": "rm -r ./build/.vscode && rm -r ./build/src && rm ./build/package.json && rm ./build/snowpack.config.js && rm ./build/tsconfig.json && rm ./build/jest.config.js && rm ./build/yarn.lock",
-    "build": "snowpack build && yarn cleanbuild && mv ./build ./docs",
+    "cleanbuild": "rm -rf ./docs && mkdir -p ./docs/js && cp -r ./build/js/ ./docs/js/ && cp ./build/index.html ./docs/index.html && rm -rf ./build",
+    "replaceModulePath": "sed -i '' -e 's|src=\"/js|src=\"./js|g' ./docs/index.html",
+    "build": "snowpack build && yarn cleanbuild && replaceModulePath",
     "serve": "http-server ./build/"
   },
   "devDependencies": {
