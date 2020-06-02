@@ -11,32 +11,33 @@ type Props = {
 
 export const SelectPlatforms: React.FC<Props> = (props) => {
   return (
-    <StyledLabel>
-      <StyledLabelText>{props.label}</StyledLabelText>
-      <StyledButtonWrapper>
-        {props.keys.map((key) => (
-          <StyledButton
-            key={key}
-            isActive={props.choices.includes(key)}
-            onClick={() => props.handleSelect(key)}
-          >
-            {key}
-          </StyledButton>
-        ))}
-      </StyledButtonWrapper>
-    </StyledLabel>
+    <StyledWrapper>
+      {props.keys.map((key) => (
+        <StyledButtonWrapper>
+        <StyledButton
+          key={key}
+          isActive={props.choices.includes(key)}
+          onClick={() => props.handleSelect(key)}
+        >
+          {key}
+        </StyledButton>
+        </StyledButtonWrapper>
+      ))}
+    </StyledWrapper>
   )
 }
 
-const StyledLabel = styled.label`
+const StyledWrapper = styled.menu`
   display: block;
   text-align: center;
   margin-bottom: 24px;
+  list-style-type: none;
   ${BREAK_POINT.MID} {
+    margin-left: -8px;
+    margin-top: -8px;
     span {
       display: block;
     }
-    margin-left: -8px;
   }
 `
 
@@ -47,11 +48,8 @@ const StyledLabelText = styled.span`
   }
 `
 
-const StyledButtonWrapper = styled.span`
-  ${BREAK_POINT.MID} {
-    margin-left: -8px;
-    margin-top: -8px;
-  }
+const StyledButtonWrapper = styled.li`
+  display: inline-block;
 `
 
 const StyledButton = styled.button<{ isActive?: boolean }>`
