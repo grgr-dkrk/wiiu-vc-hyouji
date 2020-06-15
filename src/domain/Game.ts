@@ -1,6 +1,7 @@
 import { Game, GameList } from '../types/Game'
 import Data from '../assets/GameList'
 import { SortTypes, SortDirection } from '../types/Form'
+import { OwnList } from '../types/OwnList'
 
 /**
  * Constants
@@ -53,6 +54,7 @@ export const sortGameList = (
   gameList: GameList,
   sortType: SortTypes,
   sortDirection: SortDirection,
+  ownList?: OwnList,
 ) => {
   if (sortType === 'default') return gameList
   const sortedGameList =
@@ -62,6 +64,12 @@ export const sortGameList = (
       ? gameList.slice().sort((x, y) => compare(x.platform, y.platform))
       : sortType === 'publisher'
       ? gameList.slice().sort((x, y) => compare(x.publisher, y.publisher))
+      : sortType === 'own' && ownList
+      ? gameList.reduce<GameList>(
+          (acc, item) =>
+            ownList.includes(item.id) ? [item, ...acc] : [...acc, item],
+          [],
+        )
       : gameList
   return sortDirection === 'asc'
     ? sortedGameList
@@ -73,7 +81,8 @@ export const getFilterdGameList = (
   platform: Game['platform'][],
   sortType: SortTypes,
   sortDirection: SortDirection,
+  ownList?: OwnList,
 ) => {
   const filterdList = filterPlatform(gameList, platform)
-  return sortGameList(filterdList, sortType, sortDirection)
+  return sortGameList(filterdList, sortType, sortDirection, ownList)
 }

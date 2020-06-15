@@ -11,40 +11,81 @@ import { SelectPlatforms } from '../components/SelectPlatforms'
 import { ErrorMessage } from '../components/ErrorMessage'
 import { SortTypes, SortDirection } from '../../types/Form'
 import { Result } from '../components/Result'
+import { Game } from '../../types/Game'
+import Recoil from 'recoil' // TODO: wait for ESM
+import { ownListState } from '../../controllers/OwnList/State'
+import { getAddedOwnList, getRemovedOwnList } from '../../domain/OwnList'
+import {
+  setOwnListToStorage,
+  getOwnListOfStorage,
+  initOwnListOfStorage,
+} from '../../controllers/OwnList/Storage'
+import { OwnList } from '../../types/OwnList'
+import { Button } from '../components/Button'
+import { SelectOtherOptions } from '../components/SelectOtherOptions'
 
 type SortState = {
   type: SortTypes
   direction: SortDirection
 }
 
+type FilterState = {
+  platforms: Game['platform'][]
+  ownList: OwnList
+}
+
 export const DataTable: React.FC = () => {
   const platformKeys = getPlatformKeys()
-  const [choices, setChoices] = React.useState(platformKeys)
+  const [filterState, setFilterState] = React.useState<FilterState>({
+    platforms: platformKeys,
+    ownList: [],
+  })
   const [sortState, setSortState] = React.useState<SortState>({
     type: 'default',
-    direction: 'desc',
+    direction: 'asc',
   })
   const gameList = getGameMasterData()
+  // TODO: move something
+  const [ownList, setOwnList] = Recoil.useRecoilState(ownListState)
+
+  React.useEffect(() => {
+    const storageOwnList = getOwnListOfStorage()
+    if (!storageOwnList) return
+    setOwnList(storageOwnList)
+  }, [])
+
   const filterdGameList = getFilterdGameList(
     gameList,
-    choices,
+    filterState.platforms,
     sortState.type,
     sortState.direction,
+    ownList,
   )
 
   const changePlatform = React.useCallback(
     (choice: string) => {
       if (choice === 'ALL') {
-        setChoices(choices.length ? [] : platformKeys)
+        setFilterState({
+          ...filterState,
+          platforms: filterState.platforms.length ? [] : platformKeys,
+        })
         return
       }
-      if (choices.includes(choice)) {
-        setChoices(choices.filter((item) => item !== choice && item !== 'ALL'))
+      if (filterState.platforms.includes(choice)) {
+        setFilterState({
+          ...filterState,
+          platforms: filterState.platforms.filter(
+            (item) => item !== choice && item !== 'ALL',
+          ),
+        })
       } else {
-        setChoices([...choices, choice])
+        setFilterState({
+          ...filterState,
+          platforms: [...filterState.platforms, choice],
+        })
       }
     },
-    [choices],
+    [filterState.platforms],
   )
 
   const changeSortType = React.useCallback(
@@ -61,14 +102,33 @@ export const DataTable: React.FC = () => {
     [sortState],
   )
 
+  const updateOwnList = (checked: boolean, id: Game['id']) => {
+    let newOwnList: OwnList = []
+    if (checked) {
+      newOwnList = getAddedOwnList(ownList, id)
+    } else {
+      newOwnList = getRemovedOwnList(ownList, id)
+    }
+    setOwnList(newOwnList)
+    setOwnListToStorage(newOwnList)
+  }
+
+  const initOwnList = () => {
+    if (confirm('所有リストを初期化しますか')) {
+      setOwnList([])
+      initOwnListOfStorage()
+    }
+  }
+
   return (
     <>
       <SelectPlatforms
         label={'機種'}
         keys={platformKeys}
-        choices={choices}
+        choices={filterState.platforms}
         handleSelect={changePlatform}
       />
+      <SelectOtherOptions handleInitOwnList={initOwnList} />
       <Result count={filterdGameList.length} />
       {filterdGameList.length ? (
         <TableWrapper>
@@ -78,9 +138,14 @@ export const DataTable: React.FC = () => {
               handleSortTitle={() => changeSortType('title')}
               handleSortPlatform={() => changeSortType('platform')}
               handleSortPublisher={() => changeSortType('publisher')}
+              handleSortOwn={() => changeSortType('own')}
               sortDirection={sortState.direction}
             />
-            <TableBody gameList={filterdGameList} />
+            <TableBody
+              gameList={filterdGameList}
+              ownList={ownList}
+              handleChecked={updateOwnList}
+            />
           </>
         </TableWrapper>
       ) : (
