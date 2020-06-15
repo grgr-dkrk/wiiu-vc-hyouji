@@ -23,6 +23,7 @@ import {
 import { OwnList } from '../../types/OwnList'
 import { Button } from '../components/Button'
 import { SelectOtherOptions } from '../components/SelectOtherOptions'
+import { ResultWrapper } from '../components/ResultWrapper'
 
 type SortState = {
   type: SortTypes
@@ -129,7 +130,10 @@ export const DataTable: React.FC = () => {
         handleSelect={changePlatform}
       />
       <SelectOtherOptions handleInitOwnList={initOwnList} />
-      <Result count={filterdGameList.length} />
+      <ResultWrapper
+        gameListLength={filterdGameList.length}
+        ownListLength={ownList.length}
+      />
       {filterdGameList.length ? (
         <TableWrapper>
           <>

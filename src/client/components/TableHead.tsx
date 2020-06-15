@@ -17,12 +17,12 @@ export const TableHead: React.FC<Props> = (props) => {
     <StyledThead>
       <StyledTr>
         <StyledTh>
-          タイトル
+          所有
           <SortButton
-            label="タイトル順にソート"
-            isCurrent={props.sortType === 'title'}
+            label="所有または未所有順にソート"
+            isCurrent={props.sortType === 'own'}
             direction={props.sortDirection}
-            handleClick={props.handleSortTitle}
+            handleClick={props.handleSortOwn}
           />
         </StyledTh>
         <StyledTh>
@@ -35,21 +35,21 @@ export const TableHead: React.FC<Props> = (props) => {
           />
         </StyledTh>
         <StyledTh>
+          タイトル
+          <SortButton
+            label="タイトル順にソート"
+            isCurrent={props.sortType === 'title'}
+            direction={props.sortDirection}
+            handleClick={props.handleSortTitle}
+          />
+        </StyledTh>
+        <StyledTh>
           メーカー
           <SortButton
             label="機種の順にソート"
             isCurrent={props.sortType === 'publisher'}
             direction={props.sortDirection}
             handleClick={props.handleSortPublisher}
-          />
-        </StyledTh>
-        <StyledTh>
-          所有
-          <SortButton
-            label="所有または未所有順にソート"
-            isCurrent={props.sortType === 'own'}
-            direction={props.sortDirection}
-            handleClick={props.handleSortOwn}
           />
         </StyledTh>
       </StyledTr>

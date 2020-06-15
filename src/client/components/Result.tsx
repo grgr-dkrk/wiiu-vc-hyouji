@@ -3,17 +3,19 @@ import styled from 'styled-components'
 
 type Props = {
   count: number
+  label?: string
+  unit?: string
 }
 
 export const Result: React.FC<Props> = (props) => {
   return (
     <StyledResultMessage aria-live="polite" aria-atomic="true">
-      計: {props.count}本
+      {props.label || '計'}: {props.count}
+      {props.unit || '本'}
     </StyledResultMessage>
   )
 }
 
 const StyledResultMessage = styled.p`
   text-align: center;
-  margin-bottom: 24px;
 `

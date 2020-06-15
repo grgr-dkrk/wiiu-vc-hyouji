@@ -16,9 +16,6 @@ export const TableBody: React.FC<Props> = (props) => {
     <tbody>
       {props.gameList.map((game) => (
         <StyledTr key={game.id}>
-          <StyledTd>{game.title}</StyledTd>
-          <StyledTd>{game.platform}</StyledTd>
-          <StyledTd>{game.publisher}</StyledTd>
           <StyledTd center>
             <CheckBox
               gameId={game.id}
@@ -27,6 +24,9 @@ export const TableBody: React.FC<Props> = (props) => {
               handleChecked={props.handleChecked}
             />
           </StyledTd>
+          <StyledTd>{game.platform}</StyledTd>
+          <StyledTd>{game.title}</StyledTd>
+          <StyledTd>{game.publisher}</StyledTd>
         </StyledTr>
       ))}
     </tbody>
