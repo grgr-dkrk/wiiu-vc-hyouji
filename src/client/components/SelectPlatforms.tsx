@@ -13,14 +13,13 @@ export const SelectPlatforms: React.FC<Props> = (props) => {
   return (
     <StyledWrapper>
       {props.keys.map((key) => (
-        <StyledButtonWrapper>
-        <StyledButton
-          key={key}
-          isActive={props.choices.includes(key)}
-          onClick={() => props.handleSelect(key)}
-        >
-          {key}
-        </StyledButton>
+        <StyledButtonWrapper key={key}>
+          <StyledButton
+            isActive={props.choices.includes(key)}
+            onClick={() => props.handleSelect(key)}
+          >
+            {key}
+          </StyledButton>
         </StyledButtonWrapper>
       ))}
     </StyledWrapper>
@@ -30,7 +29,7 @@ export const SelectPlatforms: React.FC<Props> = (props) => {
 const StyledWrapper = styled.menu`
   display: block;
   text-align: center;
-  margin-bottom: 24px;
+  margin-bottom: 16px;
   list-style-type: none;
   ${BREAK_POINT.MID} {
     margin-left: -8px;

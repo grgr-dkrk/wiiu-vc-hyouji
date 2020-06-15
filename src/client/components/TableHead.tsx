@@ -9,6 +9,7 @@ type Props = {
   handleSortTitle: () => void
   handleSortPlatform: () => void
   handleSortPublisher: () => void
+  handleSortOwn: () => void
 }
 
 export const TableHead: React.FC<Props> = (props) => {
@@ -40,6 +41,15 @@ export const TableHead: React.FC<Props> = (props) => {
             isCurrent={props.sortType === 'publisher'}
             direction={props.sortDirection}
             handleClick={props.handleSortPublisher}
+          />
+        </StyledTh>
+        <StyledTh>
+          所有
+          <SortButton
+            label="所有または未所有順にソート"
+            isCurrent={props.sortType === 'own'}
+            direction={props.sortDirection}
+            handleClick={props.handleSortOwn}
           />
         </StyledTh>
       </StyledTr>

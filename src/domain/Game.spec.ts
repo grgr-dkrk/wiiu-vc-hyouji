@@ -16,21 +16,21 @@ const createGameMockData = (id: Game['id'], diff?: Partial<Game>): Game => ({
  * Getter
  */
 describe('getter', () => {
-  test('getGameTitle', () => {
+  it('getGameTitle', () => {
     expect(
       GameDomain.getGameTitle(
         createGameMockData('gameId', { title: 'expectedTitle' }),
       ),
     ).toBe('expectedTitle')
   })
-  test('getGamePlatform', () => {
+  it('getGamePlatform', () => {
     expect(
       GameDomain.getGamePlatform(
         createGameMockData('gameId', { platform: 'FC' }),
       ),
     ).toBe('FC')
   })
-  test('getGamePublisher', () => {
+  it('getGamePublisher', () => {
     expect(
       GameDomain.getGamePublisher(
         createGameMockData('gameId', { publisher: 'MINTENDO' }),

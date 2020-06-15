@@ -1,8 +1,15 @@
 import * as React from 'react'
-import { GameList } from '../../types/Game'
+import { GameList, Game } from '../../types/Game'
+import { OwnList } from '../../types/OwnList'
 import styled from 'styled-components'
+import { CheckBox } from './CheckBox'
+import { isExistOwnId } from '../../domain/OwnList'
 
-type Props = { gameList: GameList }
+type Props = {
+  gameList: GameList
+  ownList: OwnList
+  handleChecked: (checked: boolean, id: Game['id']) => void
+}
 
 export const TableBody: React.FC<Props> = (props) => {
   return (
@@ -12,6 +19,14 @@ export const TableBody: React.FC<Props> = (props) => {
           <StyledTd>{game.title}</StyledTd>
           <StyledTd>{game.platform}</StyledTd>
           <StyledTd>{game.publisher}</StyledTd>
+          <StyledTd center>
+            <CheckBox
+              gameId={game.id}
+              title={game.title}
+              isChecked={isExistOwnId(props.ownList, game.id)}
+              handleChecked={props.handleChecked}
+            />
+          </StyledTd>
         </StyledTr>
       ))}
     </tbody>
@@ -24,8 +39,10 @@ const StyledTr = styled.tr`
   }
 `
 
-const StyledTd = styled.td`
+const StyledTd = styled.td<{ center?: boolean }>`
   border: 1px solid #bbb;
   padding: 0.4em;
+  position: relative;
   max-width: 440px;
+  ${(props) => props.center && `text-align: center;`}
 `
