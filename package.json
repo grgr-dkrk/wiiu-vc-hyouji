@@ -12,7 +12,7 @@
     "buildLinux": "snowpack build && yarn cleanbuild && yarn replaceModulePath",
     "serve": "serve ./docs/",
     "type-check": "tsc --noEmit",
-    "lint": "eslint ./src/**/*.ts",
+    "lint": "eslint ./src",
     "test": "jest"
   },
   "devDependencies": {

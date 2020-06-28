@@ -40,13 +40,6 @@ const StyledWrapper = styled.menu`
   }
 `
 
-const StyledLabelText = styled.span`
-  ${BREAK_POINT.MID} {
-    display: block;
-    margin-bottom: 8px;
-  }
-`
-
 const StyledButtonWrapper = styled.li`
   display: inline-block;
 `

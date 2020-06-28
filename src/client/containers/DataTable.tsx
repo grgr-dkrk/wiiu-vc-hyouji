@@ -10,7 +10,6 @@ import { TableBody } from '../components/TableBody'
 import { SelectPlatforms } from '../components/SelectPlatforms'
 import { ErrorMessage } from '../components/ErrorMessage'
 import { SortTypes, SortDirection } from '../../types/Form'
-import { Result } from '../components/Result'
 import { Game } from '../../types/Game'
 import Recoil from 'recoil' // TODO: wait for ESM
 import { ownListState } from '../../controllers/OwnList/State'
@@ -21,7 +20,6 @@ import {
   initOwnListOfStorage,
 } from '../../controllers/OwnList/Storage'
 import { OwnList } from '../../types/OwnList'
-import { Button } from '../components/Button'
 import { SelectOtherOptions } from '../components/SelectOtherOptions'
 import { ResultWrapper } from '../components/ResultWrapper'
 
