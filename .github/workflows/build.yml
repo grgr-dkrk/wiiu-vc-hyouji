@@ -24,3 +24,6 @@ jobs:
 
       - name: Test
         run: yarn test
+
+      - name: BuildTest
+        run: yarn buildLinux
