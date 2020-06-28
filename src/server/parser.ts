@@ -9,11 +9,12 @@ export const Parser = (htmlUtf8String: string): Game[] => {
   const domParser = new DomParser()
   const dom = domParser.parseFromString(htmlUtf8String)
   if (!dom) throw new Error('dom is invalid')
-  const years = getAllYears(dom).map((year) => year.replace(/\（.*$/, ''))
+  const years = getAllYears(dom).map((year) => year.replace(/（.*$/, ''))
   const tableNodes = getTableNodes(dom)
   if (years.length !== tableNodes.length)
     throw new Error('length validate is failed')
   const data = tableNodes.map((node, index) => walkTable(node, years[index]))
+  // eslint-disable-next-line @typescript-eslint/no-array-constructor
   return Array()
     .concat.apply([], data)
     .filter((data) => data)

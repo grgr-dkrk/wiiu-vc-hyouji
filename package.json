@@ -4,14 +4,16 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "jest",
     "run:server": "ts-node src/server/index.ts",
     "dev": "snowpack dev",
     "cleanbuild": "rm -rf ./docs && mkdir -p ./docs/js && cp -r ./build/js/ ./docs/js/ && cp ./build/index.html ./docs/index.html && rm -rf ./build",
     "replaceModulePath": "sed -i -e 's|src=\"/js|src=\"./js|g' ./docs/index.html",
     "build": "snowpack build && yarn cleanbuild",
     "buildLinux": "snowpack build && yarn cleanbuild && yarn replaceModulePath",
-    "serve": "serve ./docs/"
+    "serve": "serve ./docs/",
+    "type-check": "tsc --noEmit",
+    "lint": "eslint ./src/**/*.ts",
+    "test": "jest"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.10.2",
@@ -28,7 +30,10 @@
     "@typescript-eslint/eslint-plugin": "^3.4.0",
     "@typescript-eslint/parser": "^3.4.0",
     "eslint": "^7.3.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.0",
     "jest": "^26.0.1",
+    "prettier": "2.0.5",
     "serve": "^11.3.2",
     "snowpack": "^2.1.1",
     "ts-jest": "^26.1.0",

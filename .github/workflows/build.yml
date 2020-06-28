@@ -16,12 +16,11 @@ jobs:
       - name: Install Modules
         run: yarn install
 
-      - name: Build
-        run: yarn buildLinux
+      - name: TypeCheck
+        run: yarn type-check
 
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v3
-        with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: master
-          FOLDER: docs
+      - name: Lint
+        run: yarn lint
+
+      - name: Test
+        run: yarn test
